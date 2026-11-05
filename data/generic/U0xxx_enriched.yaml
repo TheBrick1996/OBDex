@@ -6704,6 +6704,8 @@
   reviewed: '2026-11-05'
 
 - code: U010A
+  short_description:
+    en: "Lost Communication With EGR Control Module A"
   category: network
   title:
     en: Lost Communication With Exhaust Gas Recirculation Control Module A
@@ -6761,6 +6763,8 @@
   reviewed: '2026-11-05'
 
 - code: U010B
+  short_description:
+    en: "Lost Communication With EGR Control Module B"
   category: network
   title:
     en: Lost Communication With Exhaust Gas Recirculation Control Module B
@@ -6818,6 +6822,8 @@
   reviewed: '2026-11-05'
 
 - code: U010C
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger Control Module A"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger Control Module A
@@ -6871,6 +6877,8 @@
   reviewed: '2026-11-05'
 
 - code: U010D
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger Control Module B"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger Control Module B
@@ -6924,6 +6932,8 @@
   reviewed: '2026-11-05'
 
 - code: U010E
+  short_description:
+    en: "Lost Communication With DEF Control Module"
   category: network
   title:
     en: Lost Communication With Reductant Control Module
@@ -7397,6 +7407,8 @@
   reviewed: '2026-11-05'
 
 - code: U0116
+  short_description:
+    en: "Lost Communication With Coolant Temp Control Module"
   category: network
   title:
     en: Lost Communication With Coolant Temperature Control Module
@@ -8503,6 +8515,8 @@
   reviewed: '2026-11-05'
 
 - code: U0129
+  short_description:
+    en: "Lost Communication With Brake Control Module A"
   category: network
   title:
     en: Lost Communication With Brake System Control Module A
@@ -14667,6 +14681,8 @@
   reviewed: '2026-11-05'
 
 - code: U019D
+  short_description:
+    en: "Lost Communication With Direct Ozone Reduction Catalyst Temp Sensor"
   category: network
   title:
     en: Lost Communication With Direct Ozone Reduction Catalyst Temperature Sensor
@@ -24485,6 +24501,8 @@
   reviewed: '2026-11-05'
 
 - code: U02A2
+  short_description:
+    en: "Lost Communication With DEF Quality Module"
   category: network
   title:
     en: Lost Communication With Reductant Quality Module
@@ -24663,6 +24681,8 @@
   reviewed: '2026-11-05'
 
 - code: U02A5
+  short_description:
+    en: "Lost Communication With DEF Heater Control Module"
   category: network
   title:
     en: Lost Communication With Reductant Heater Control Module
@@ -25064,6 +25084,8 @@
   reviewed: '2026-11-05'
 
 - code: U02AC
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger Boost Control A"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger Boost Control A
@@ -25122,6 +25144,8 @@
   reviewed: '2026-11-05'
 
 - code: U02AD
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger Boost Control B"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger Boost Control B
@@ -25238,6 +25262,8 @@
   reviewed: '2026-11-05'
 
 - code: U02AF
+  short_description:
+    en: "Lost Communication With Turbo Turbine Inlet Valve Position Sensor"
   category: network
   title:
     en: Lost Communication With Turbocharger Turbine Inlet Valve Position Sensor
@@ -25296,6 +25322,8 @@
   reviewed: '2026-11-05'
 
 - code: U02B0
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger Boost Control B Position Sensor"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger Boost Control B Position Sensor
@@ -26913,6 +26941,8 @@
   reviewed: '2026-11-05'
 
 - code: U030C
+  short_description:
+    en: "Software Incompatibility With DEF Quality Module"
   category: network
   title:
     en: Software Incompatibility With Reductant Quality Module
@@ -27072,6 +27102,8 @@
   reviewed: '2026-11-05'
 
 - code: U030F
+  short_description:
+    en: "Software Incompatibility With DEF Control Module"
   category: network
   title:
     en: Software Incompatibility With Reductant Control Module
@@ -31086,6 +31118,8 @@
   reviewed: '2026-11-05'
 
 - code: U040B
+  short_description:
+    en: "Invalid Data Received From EGR Control Module A"
   category: network
   title:
     en: Invalid Data Received From Exhaust Gas Recirculation Control Module A
@@ -31143,6 +31177,8 @@
   reviewed: '2026-11-05'
 
 - code: U040C
+  short_description:
+    en: "Invalid Data Received From EGR Control Module B"
   category: network
   title:
     en: Invalid Data Received From Exhaust Gas Recirculation Control Module B
@@ -31192,6 +31228,8 @@
   reviewed: '2026-11-05'
 
 - code: U040D
+  short_description:
+    en: "Invalid Data Received From Turbo/Supercharger Control Module A"
   category: network
   title:
     en: Invalid Data Received From Turbocharger/Supercharger Control Module A
@@ -31244,6 +31282,8 @@
   reviewed: '2026-11-05'
 
 - code: U040E
+  short_description:
+    en: "Invalid Data Received From Turbo/Supercharger Control Module B"
   category: network
   title:
     en: Invalid Data Received From Turbocharger/Supercharger Control Module B
@@ -31293,6 +31333,8 @@
   reviewed: '2026-11-05'
 
 - code: U040F
+  short_description:
+    en: "Invalid Data Received From DEF Control Module"
   category: network
   title:
     en: Invalid Data Received From Reductant Control Module
@@ -34877,6 +34919,8 @@
     - https://en.wikipedia.org/wiki/Airbag
 
 - code: U0456
+  short_description:
+    en: "Invalid Data Received From Coolant Temp Control Module"
   category: network
   title:
     en: Invalid Data Received From Coolant Temperature Control Module
@@ -46890,6 +46934,8 @@
   reviewed: '2026-11-05'
 
 - code: U05A3
+  short_description:
+    en: "Invalid Data Received From DEF Quality Module"
   category: network
   title:
     en: Invalid Data Received From Reductant Quality Module
@@ -47048,6 +47094,8 @@
   reviewed: '2026-11-05'
 
 - code: U05A6
+  short_description:
+    en: "Invalid Data Received From DEF Heater Control Module"
   category: network
   title:
     en: Invalid Data Received From Reductant Heater Control Module
@@ -48737,6 +48785,8 @@
   reviewed: '2026-11-05'
 
 - code: U060B
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger Boost Sensor A"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger Boost Sensor A
@@ -48790,6 +48840,8 @@
   reviewed: '2026-11-05'
 
 - code: U060C
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger Boost Sensor B"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger Boost Sensor B
@@ -48840,6 +48892,8 @@
   reviewed: '2026-11-05'
 
 - code: U060D
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger Boost Sensor C"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger Boost Sensor C
@@ -49484,6 +49538,8 @@
   reviewed: '2026-11-05'
 
 - code: U0619
+  short_description:
+    en: "Lost Communication With DEF Level Sensor A"
   category: network
   title:
     en: Lost Communication With Reductant Level Sensor A
@@ -49542,6 +49598,8 @@
   reviewed: '2026-11-05'
 
 - code: U061A
+  short_description:
+    en: "Lost Communication With DEF Level Sensor B"
   category: network
   title:
     en: Lost Communication With Reductant Level Sensor B
@@ -49592,6 +49650,8 @@
   reviewed: '2026-11-05'
 
 - code: U061B
+  short_description:
+    en: "Lost Communication With DEF Level Sensor C"
   category: network
   title:
     en: Lost Communication With Reductant Level Sensor C
@@ -49642,6 +49702,8 @@
   reviewed: '2026-11-05'
 
 - code: U061C
+  short_description:
+    en: "Lost Communication With DEF Temp Sensor A"
   category: network
   title:
     en: Lost Communication With Reductant Temperature Sensor A
@@ -49695,6 +49757,8 @@
   reviewed: '2026-11-05'
 
 - code: U061D
+  short_description:
+    en: "Lost Communication With DEF Temp Sensor B"
   category: network
   title:
     en: Lost Communication With Reductant Temperature Sensor B
@@ -50241,6 +50305,8 @@
   reviewed: '2026-11-05'
 
 - code: U0627
+  short_description:
+    en: "Lost Communication With A/C Refrigerant Temp Sensor A"
   category: network
   title:
     en: Lost Communication With A/C Refrigerant Temperature Sensor A
@@ -50348,6 +50414,8 @@
   reviewed: '2026-11-05'
 
 - code: U0629
+  short_description:
+    en: "Lost Communication With A/C Refrigerant Temp Sensor B"
   category: network
   title:
     en: Lost Communication With A/C Refrigerant Temperature Sensor B
@@ -50728,6 +50796,8 @@
   reviewed: '2026-11-05'
 
 - code: U0630
+  short_description:
+    en: "Lost Communication With Engine Coolant Temp Sensor 4"
   category: network
   title:
     en: Lost Communication With Engine Coolant Temperature Sensor 4
@@ -50779,6 +50849,8 @@
   reviewed: '2026-11-05'
 
 - code: U0631
+  short_description:
+    en: "Lost Communication With Engine Coolant Temp Sensor 5"
   category: network
   title:
     en: Lost Communication With Engine Coolant Temperature Sensor 5
@@ -51171,6 +51243,8 @@
   reviewed: '2026-11-05'
 
 - code: U0638
+  short_description:
+    en: "Lost Communication With Hybrid/EV Electronics Coolant Temp Sensor A"
   category: network
   title:
     en: Lost Communication With Hybrid/EV Electronics Coolant Temperature Sensor A
@@ -51229,6 +51303,8 @@
   reviewed: '2026-11-05'
 
 - code: U0639
+  short_description:
+    en: "Lost Communication With Hybrid/EV Electronics Coolant Temp Sensor B"
   category: network
   title:
     en: Lost Communication With Hybrid/EV Electronics Coolant Temperature Sensor B
@@ -51286,6 +51362,8 @@
   reviewed: '2026-11-05'
 
 - code: U063A
+  short_description:
+    en: "Lost Communication With Hybrid/EV Electronics Coolant Temp Sensor C"
   category: network
   title:
     en: Lost Communication With Hybrid/EV Electronics Coolant Temperature Sensor C
@@ -51623,6 +51701,8 @@
   reviewed: '2026-11-05'
 
 - code: U0640
+  short_description:
+    en: "Lost Communication With EVAP Fuel Vapor Temp Sensor Circuit"
   category: network
   title:
     en: Lost Communication With EVAP Fuel Vapor Temperature Sensor Circuit
@@ -51798,6 +51878,8 @@
   reviewed: '2026-11-05'
 
 - code: U0643
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger A Temp Sensor"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger A Temperature Sensor
@@ -52865,6 +52947,8 @@
   reviewed: '2026-11-05'
 
 - code: U0656
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger Boost Control A Position Sensor"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger Boost Control A Position Sensor
@@ -52923,6 +53007,8 @@
   reviewed: '2026-11-05'
 
 - code: U0657
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger Bypass Valve A Position Sensor"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger Bypass Valve A Position Sensor
@@ -52981,6 +53067,8 @@
   reviewed: '2026-11-05'
 
 - code: U0658
+  short_description:
+    en: "Lost Communication With Windshield Temp Sensor"
   category: network
   title:
     en: Lost Communication With Windshield Temperature Sensor
@@ -53040,6 +53128,8 @@
   reviewed: '2026-11-05'
 
 - code: U0659
+  short_description:
+    en: "Lost Communication With Left Front Temp Actuator"
   category: network
   title:
     en: Lost Communication With Left Front Temperature Actuator
@@ -53099,6 +53189,8 @@
   reviewed: '2026-11-05'
 
 - code: U065A
+  short_description:
+    en: "Lost Communication With Right Front Temp Actuator"
   category: network
   title:
     en: Lost Communication With Right Front Temperature Actuator
@@ -53364,6 +53456,8 @@
   reviewed: '2026-11-05'
 
 - code: U065F
+  short_description:
+    en: "Lost Communication With Left Rear Temp Actuator A"
   category: network
   title:
     en: Lost Communication With Left Rear Temperature Actuator A
@@ -53417,6 +53511,8 @@
   reviewed: '2026-11-05'
 
 - code: U0660
+  short_description:
+    en: "Lost Communication With Left Rear Temp Actuator B"
   category: network
   title:
     en: Lost Communication With Left Rear Temperature Actuator B
@@ -53468,6 +53564,8 @@
   reviewed: '2026-11-05'
 
 - code: U0661
+  short_description:
+    en: "Lost Communication With Right Rear Temp Actuator A"
   category: network
   title:
     en: Lost Communication With Right Rear Temperature Actuator A
@@ -53521,6 +53619,8 @@
   reviewed: '2026-11-05'
 
 - code: U0662
+  short_description:
+    en: "Lost Communication With Right Rear Temp Actuator B"
   category: network
   title:
     en: Lost Communication With Right Rear Temperature Actuator B
@@ -53736,6 +53836,8 @@
   reviewed: '2026-11-05'
 
 - code: U0666
+  short_description:
+    en: "Lost Communication With DEF Pressure Sensor"
   category: network
   title:
     en: Lost Communication With Reductant Pressure Sensor
@@ -53793,6 +53895,8 @@
   reviewed: '2026-11-05'
 
 - code: U0667
+  short_description:
+    en: "Lost Communication With Engine Oil Temp Sensor A"
   category: network
   title:
     en: Lost Communication With Engine Oil Temperature Sensor A
@@ -54023,6 +54127,8 @@
   reviewed: '2026-11-05'
 
 - code: U066B
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger Bypass Valve B Position Sensor"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger Bypass Valve B Position Sensor
@@ -54309,6 +54415,8 @@
   reviewed: '2026-11-05'
 
 - code: U0670
+  short_description:
+    en: "Lost Communication With Fuel Temp Sensor A"
   category: network
   title:
     en: Lost Communication With Fuel Temperature Sensor A
@@ -54367,6 +54475,8 @@
   reviewed: '2026-11-05'
 
 - code: U0671
+  short_description:
+    en: "Lost Communication With Fuel Temp Sensor B"
   category: network
   title:
     en: Lost Communication With Fuel Temperature Sensor B
@@ -54598,6 +54708,8 @@
   reviewed: '2026-11-05'
 
 - code: U0675
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger Speed Sensor A"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger Speed Sensor A
@@ -55437,6 +55549,8 @@
   reviewed: '2026-11-05'
 
 - code: U0684
+  short_description:
+    en: "Lost Communication With Catalyst Temp Bank 1 Sensor 1"
   category: network
   title:
     en: Lost Communication With Catalyst Temperature Bank 1 Sensor 1
@@ -55493,6 +55607,8 @@
   reviewed: '2026-11-05'
 
 - code: U0685
+  short_description:
+    en: "Lost Communication With Catalyst Temp Bank 1 Sensor 2"
   category: network
   title:
     en: Lost Communication With Catalyst Temperature Bank 1 Sensor 2
@@ -55544,6 +55660,8 @@
   reviewed: '2026-11-05'
 
 - code: U0686
+  short_description:
+    en: "Lost Communication With Catalyst Temp Bank 2 Sensor 1"
   category: network
   title:
     en: Lost Communication With Catalyst Temperature Bank 2 Sensor 1
@@ -55599,6 +55717,8 @@
   reviewed: '2026-11-05'
 
 - code: U0687
+  short_description:
+    en: "Lost Communication With Catalyst Temp Bank 2 Sensor 2"
   category: network
   title:
     en: Lost Communication With Catalyst Temperature Bank 2 Sensor 2
@@ -55710,6 +55830,8 @@
   reviewed: '2026-11-05'
 
 - code: U0689
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger B Temp Sensor"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger B Temperature Sensor
@@ -55822,6 +55944,8 @@
   reviewed: '2026-11-05'
 
 - code: U068B
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger Inlet Pressure Sensor A"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger Inlet Pressure Sensor A
@@ -55875,6 +55999,8 @@
   reviewed: '2026-11-05'
 
 - code: U068C
+  short_description:
+    en: "Lost Communication With Turbo/Supercharger Inlet Pressure Sensor B"
   category: network
   title:
     en: Lost Communication With Turbocharger/Supercharger Inlet Pressure Sensor B
@@ -55928,6 +56054,8 @@
   reviewed: '2026-11-05'
 
 - code: U068D
+  short_description:
+    en: "Lost Communication With EGR Temp Sensor A"
   category: network
   title:
     en: Lost Communication With EGR Temperature Sensor A
@@ -55979,6 +56107,8 @@
   reviewed: '2026-11-05'
 
 - code: U068E
+  short_description:
+    en: "Lost Communication With EGR Temp Sensor B"
   category: network
   title:
     en: Lost Communication With EGR Temperature Sensor B
@@ -56037,6 +56167,8 @@
   reviewed: '2026-11-05'
 
 - code: U068F
+  short_description:
+    en: "Lost Communication With EGR Temp Sensor C"
   category: network
   title:
     en: Lost Communication With EGR Temperature Sensor C
@@ -56087,6 +56219,8 @@
   reviewed: '2026-11-05'
 
 - code: U0690
+  short_description:
+    en: "Lost Communication With EGR Temp Sensor D"
   category: network
   title:
     en: Lost Communication With EGR Temperature Sensor D

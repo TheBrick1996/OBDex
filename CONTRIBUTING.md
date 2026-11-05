@@ -78,3 +78,9 @@ override only when it makes the meaning clearer, such as explaining reductant
 as diesel exhaust fluid (DEF) for P203F. Preserve identifiers such as A/B and
 bank numbers. Do not rewrite a clear title just to populate this field.
 J1939 SPN/FMI codes remain outside this dataset.
+
+For fleet-facing labels, retain common terminology (DEF, DPF, EGR, NOx).
+Spell out Particulate Matter; PM is ambiguous with preventative maintenance.
+Prefer short fault labels such as Low Fuel Pressure to explanatory sentences.
+Use `tools/generate-short-descriptions.mjs` for consistent proposals; preserve
+approved wording and record generated labels separately from approved ones.

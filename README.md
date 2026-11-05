@@ -237,10 +237,23 @@ The data in this repository is provided **as is**, without warranty of any kind,
 
 ## Downstream short-description extension
 
-This branch adds optional `short_description.en` as a selective override, initially for P203F and
-a schema constraint of fewer than 10 words. Existing titles, explanations,
-sources and review dates are retained. New data remains CC0.
+This branch adds optional English `short_description` values for fleet users.
+Twenty labels were approved during editorial review. Additional labels use
+conservative, reproducible terminology rules: DEF, DPF, EGR, NOx and Temp;
+Particulate Matter stays spelled out. The original technical title, explanation,
+sources and upstream review dates remain intact. No repairs or fault status
+are inferred. Existing concise definitions remain the fallback.
+
+Run `node tools/generate-short-descriptions.mjs` to regenerate summaries.
+Approved wording in `data/editorial/approved-short-descriptions.json` wins over
+rules. Do not add a summary identical to the title; do not truncate a label to
+fit the nine-word limit. Retain bank, sensor, circuit and component identifiers.
+
+`data/editorial/short-description-review.json` records every proposed label as
+`user_approved`, `generated`, or `title_fallback`. Generated wording has not
+received the same individual editorial review as the 20 approved labels.
+Upstream `reviewed` dates refer to upstream definitions, not these summaries.
 
 Run `node tools/export-lookup.mjs` to produce `dist/lookup.json` and
-`dist/lookup.csv`. Both retain an empty short description for unedited
-records; consumers should fall back to the existing English title.
+`dist/lookup.csv`. Missing summaries are null; consumers use `title` instead.
+The full catalog remains 9,533 OBD-II codes and data remains CC0.

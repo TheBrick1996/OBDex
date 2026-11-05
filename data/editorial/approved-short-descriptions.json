@@ -1,0 +1,25 @@
+{
+  "status": "User-approved fleet terminology; applied by generator",
+  "labels": {
+    "P203F": "DEF Level Too Low",
+    "P0401": "Insufficient EGR Flow (A)",
+    "P0087": "Low Fuel Pressure",
+    "U029E": "Lost Communication With NOx Sensor B",
+    "P0045": "Open Boost Control Circuit A",
+    "P0172": "Rich Fuel Mixture — Bank 1",
+    "P0421": "Low Catalyst 1 Efficiency — Bank 1",
+    "P2002": "Low DPF Efficiency — Bank 1",
+    "P205B": "DEF Tank Temperature Sensor A Range/Performance Fault",
+    "P20C9": "DEF Module Requested Check Engine Light",
+    "P24B0": "Particulate Matter Sensor Circuit Low",
+    "U0129": "Lost Communication With Brake Control Module A",
+    "P24B1": "Particulate Matter Sensor Circuit High",
+    "P2BAE": "Excess NOx — Control Monitoring System",
+    "P0299": "Low Boost — Turbo/Supercharger A",
+    "P203B": "DEF Level Sensor A Range/Performance Fault",
+    "P20EE": "Low SCR Catalyst Efficiency — Bank 1",
+    "P2201": "NOx Sensor Range/Performance Fault — Bank 1, Sensor 1",
+    "P2459": "DPF Regeneration Frequency Fault",
+    "P2463": "DPF Restricted By Soot — Bank 1"
+  }
+}

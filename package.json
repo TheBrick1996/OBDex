@@ -9,6 +9,8 @@
     "duplicates": "node tools/check_duplicates.mjs",
     "relations": "node tools/check_relations.mjs",
     "build": "node tools/build.mjs",
+    "lookup": "node tools/export-lookup.mjs",
+    "check:lookup": "node tools/export-lookup.mjs && node tools/test-lookup.mjs",
     "check": "npm run validate && npm run duplicates && npm run relations && node tools/test-short-descriptions.mjs"
   },
   "devDependencies": {

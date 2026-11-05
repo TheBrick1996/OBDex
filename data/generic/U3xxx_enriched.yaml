@@ -7053,6 +7053,8 @@
     - https://en.wikipedia.org/wiki/Fuel_cell_vehicle
 
 - code: U354A
+  short_description:
+    en: "Hydrogen Tank A Temp Sensor 1 Circuit"
   category: network
   title:
     en: Hydrogen Tank A Temperature Sensor 1 Circuit
@@ -7106,6 +7108,8 @@
     - https://en.wikipedia.org/wiki/Fuel_cell_vehicle
 
 - code: U354B
+  short_description:
+    en: "Hydrogen Tank A Temp Sensor 2 Circuit"
   category: network
   title:
     en: Hydrogen Tank A Temperature Sensor 2 Circuit
@@ -7159,6 +7163,8 @@
     - https://en.wikipedia.org/wiki/Fuel_cell_vehicle
 
 - code: U354C
+  short_description:
+    en: "Hydrogen Tank B Temp Sensor 1 Circuit"
   category: network
   title:
     en: Hydrogen Tank B Temperature Sensor 1 Circuit
@@ -7212,6 +7218,8 @@
     - https://en.wikipedia.org/wiki/Fuel_cell_vehicle
 
 - code: U354D
+  short_description:
+    en: "Hydrogen Tank B Temp Sensor 2 Circuit"
   category: network
   title:
     en: Hydrogen Tank B Temperature Sensor 2 Circuit
@@ -7265,6 +7273,8 @@
     - https://en.wikipedia.org/wiki/Fuel_cell_vehicle
 
 - code: U354E
+  short_description:
+    en: "Hydrogen Tank C Temp Sensor 1 Circuit"
   category: network
   title:
     en: Hydrogen Tank C Temperature Sensor 1 Circuit
@@ -7318,6 +7328,8 @@
     - https://en.wikipedia.org/wiki/Fuel_cell_vehicle
 
 - code: U354F
+  short_description:
+    en: "Hydrogen Tank C Temp Sensor 2 Circuit"
   category: network
   title:
     en: Hydrogen Tank C Temperature Sensor 2 Circuit
@@ -8002,6 +8014,8 @@
     - https://en.wikipedia.org/wiki/Proton-exchange_membrane_fuel_cell
 
 - code: U355C
+  short_description:
+    en: "Charge Air Cooler Outlet Temp Sensor Circuit"
   category: network
   title:
     en: Charge Air Cooler Outlet Temperature Sensor Circuit
@@ -9044,6 +9058,8 @@
     - https://en.wikipedia.org/wiki/Proton-exchange_membrane_fuel_cell
 
 - code: U3570
+  short_description:
+    en: "Stack Inlet Coolant Temp Sensor Circuit"
   category: network
   title:
     en: Stack Inlet Coolant Temperature Sensor Circuit
@@ -9096,6 +9112,8 @@
     - https://en.wikipedia.org/wiki/Proton-exchange_membrane_fuel_cell
 
 - code: U3571
+  short_description:
+    en: "Stack Outlet Coolant Temp Sensor 1 Circuit"
   category: network
   title:
     en: Stack Outlet Coolant Temperature Sensor 1 Circuit
@@ -9149,6 +9167,8 @@
     - https://en.wikipedia.org/wiki/Proton-exchange_membrane_fuel_cell
 
 - code: U3572
+  short_description:
+    en: "Stack Outlet Coolant Temp Sensor 2 Circuit"
   category: network
   title:
     en: Stack Outlet Coolant Temperature Sensor 2 Circuit

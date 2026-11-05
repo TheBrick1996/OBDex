@@ -8725,6 +8725,8 @@
     - https://en.wikipedia.org/wiki/Body_control_module
 
 - code: B0158
+  short_description:
+    en: "Ambient Air Temp Sensor Circuit"
   category: body
   title:
     en: Ambient Air Temperature Sensor Circuit
@@ -8766,6 +8768,8 @@
     - https://en.wikipedia.org/wiki/Body_control_module
 
 - code: B0159
+  short_description:
+    en: "Outside Temp Sensor Range/Performance"
   category: body
   title:
     en: Outside Temperature Sensor Range/Performance
@@ -8812,6 +8816,8 @@
     - https://en.wikipedia.org/wiki/Body_control_module
 
 - code: B0160
+  short_description:
+    en: "In-Vehicle Temp Sensor Circuit"
   category: body
   title:
     en: In-Vehicle Temperature Sensor Circuit
@@ -8894,6 +8900,8 @@
     - https://en.wikipedia.org/wiki/Body_control_module
 
 - code: B0164
+  short_description:
+    en: "Air Bag In-Vehicle Temp Sensor Circuit"
   category: body
   title:
     en: Air Bag In-Vehicle Temperature Sensor Circuit
@@ -8935,6 +8943,8 @@
     - https://en.wikipedia.org/wiki/Body_control_module
 
 - code: B0166
+  short_description:
+    en: "HVAC Discharge Air Temp Sensor"
   category: body
   title:
     en: HVAC Discharge Air Temperature Sensor
@@ -10080,6 +10090,8 @@
     - https://en.wikipedia.org/wiki/Body_control_module
 
 - code: B0250
+  short_description:
+    en: "HVAC Air Temp Internal Sensor Circuit"
   category: body
   title:
     en: HVAC Air Temperature Internal Sensor Circuit
@@ -10167,6 +10179,8 @@
     - https://en.wikipedia.org/wiki/Body_control_module
 
 - code: B0255
+  short_description:
+    en: "HVAC Air Temp External Sensor Circuit"
   category: body
   title:
     en: HVAC Air Temperature External Sensor Circuit
@@ -10805,6 +10819,8 @@
     - https://en.wikipedia.org/wiki/Body_control_module
 
 - code: B0300
+  short_description:
+    en: "HVAC Evaporator Temp Sensor Circuit"
   category: body
   title:
     en: HVAC Evaporator Temperature Sensor Circuit
