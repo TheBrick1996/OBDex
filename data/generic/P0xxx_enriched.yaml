@@ -4419,8 +4419,6 @@
   reviewed: '2026-10-09'
 
 - code: P0045
-  short_description:
-    en: "Turbo boost control circuit reported open"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control A Circuit/Open
@@ -8475,8 +8473,6 @@
   reviewed: '2026-10-09'
 
 - code: P0087
-  short_description:
-    en: "Fuel pressure reported too low"
   category: powertrain
   title:
     en: Fuel Rail/System Pressure - Too Low
@@ -22704,8 +22700,6 @@
   reviewed: '2026-10-09'
 
 - code: P0172
-  short_description:
-    en: "Fuel mixture reported too rich on bank 1"
   category: powertrain
   title:
     en: System Too Rich Bank 1
@@ -62881,8 +62875,6 @@
   reviewed: '2026-10-11'
 
 - code: P0401
-  short_description:
-    en: "Exhaust gas recirculation flow reported too low"
   category: powertrain
   title:
     en: EGR A Flow Insufficient Detected
@@ -64864,8 +64856,6 @@
   reviewed: '2026-10-11'
 
 - code: P0421
-  short_description:
-    en: "First catalyst efficiency reported low on bank 1"
   category: powertrain
   title:
     en: Catalyst 1 Efficiency Below Threshold Bank 1

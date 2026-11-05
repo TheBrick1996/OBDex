@@ -237,7 +237,7 @@ The data in this repository is provided **as is**, without warranty of any kind,
 
 ## Downstream short-description extension
 
-This branch adds optional `short_description.en` values for 14 codes and
+This branch adds optional `short_description.en` as a selective override, initially for P203F and
 a schema constraint of fewer than 10 words. Existing titles, explanations,
 sources and review dates are retained. New data remains CC0.
 

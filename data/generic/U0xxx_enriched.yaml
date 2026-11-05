@@ -8503,8 +8503,6 @@
   reviewed: '2026-11-05'
 
 - code: U0129
-  short_description:
-    en: "Lost communication with brake system control module A"
   category: network
   title:
     en: Lost Communication With Brake System Control Module A
@@ -24253,8 +24251,6 @@
   reviewed: '2026-11-05'
 
 - code: U029E
-  short_description:
-    en: "Lost communication with nitrogen oxide sensor B"
   category: network
   title:
     en: Lost Communication With NOx Sensor B

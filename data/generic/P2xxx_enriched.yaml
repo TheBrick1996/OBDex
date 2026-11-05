@@ -114,8 +114,6 @@
   reviewed: '2026-11-03'
 
 - code: P2002
-  short_description:
-    en: "Diesel particulate filter efficiency reported low on bank 1"
   category: powertrain
   title:
     en: Diesel Particulate Filter Efficiency Below Threshold (Bank 1)
@@ -4969,8 +4967,6 @@
   reviewed: '2026-11-03'
 
 - code: P205B
-  short_description:
-    en: "DEF tank temperature sensor A reading outside expected range"
   category: powertrain
   title:
     en: Reductant Tank Temperature Sensor A Circuit Range/Performance
@@ -10952,8 +10948,6 @@
   reviewed: '2026-11-03'
 
 - code: P20C9
-  short_description:
-    en: "DEF control module requested check engine light"
   category: powertrain
   title:
     en: Reductant Control Module Requested MIL Illumination
@@ -65455,8 +65449,6 @@
   reviewed: '2026-11-03'
 
 - code: P24B0
-  short_description:
-    en: "Particulate matter sensor circuit signal reported too low"
   category: powertrain
   title:
     en: Particulate Matter Sensor Circuit Low
@@ -65508,8 +65500,6 @@
   reviewed: '2026-11-04'
 
 - code: P24B1
-  short_description:
-    en: "Particulate matter sensor circuit signal reported too high"
   category: powertrain
   title:
     en: Particulate Matter Sensor Circuit High
@@ -147279,8 +147269,6 @@
   reviewed: '2026-11-05'
 
 - code: P2BAE
-  short_description:
-    en: "Excess nitrogen oxide emissions reported by control monitoring system"
   category: powertrain
   title:
     en: NOx Exceedence - NOx Control Monitoring System

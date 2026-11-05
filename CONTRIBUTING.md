@@ -73,5 +73,8 @@ until its wording has been reviewed; consumers can fall back to `title.en`.
 An upstream `reviewed` date describes the original entry, not independent
 review of downstream short descriptions.
 
-The initial 14 English summaries cover the OBD-II codes observed in the
-FleetLytics integration trial. J1939 SPN/FMI codes remain outside this dataset.
+Use the existing title by default: it is already a concise definition. Add an
+override only when it makes the meaning clearer, such as explaining reductant
+as diesel exhaust fluid (DEF) for P203F. Preserve identifiers such as A/B and
+bank numbers. Do not rewrite a clear title just to populate this field.
+J1939 SPN/FMI codes remain outside this dataset.
