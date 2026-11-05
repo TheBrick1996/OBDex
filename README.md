@@ -234,3 +234,13 @@ SAE J2012 itself remains copyrighted. This repository contains independently wri
 ## Disclaimer
 
 The data in this repository is provided **as is**, without warranty of any kind, express or implied. Diagnostic trouble codes describe symptoms, not definitive faults; a wrong interpretation can lead to wrong repairs and damage. Always cross-check with the vehicle's service documentation and qualified diagnostic tools before acting on any information from this database. Contributors and maintainers accept no liability for decisions made based on this data.
+
+## Downstream short-description extension
+
+This branch adds optional `short_description.en` values for 14 codes and
+a schema constraint of fewer than 10 words. Existing titles, explanations,
+sources and review dates are retained. New data remains CC0.
+
+Run `node tools/export-lookup.mjs` to produce `dist/lookup.json` and
+`dist/lookup.csv`. Both retain an empty short description for unedited
+records; consumers should fall back to the existing English title.

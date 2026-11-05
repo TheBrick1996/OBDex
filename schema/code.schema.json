@@ -36,6 +36,22 @@
       },
       "additionalProperties": false
     },
+    "short_description": {
+      "type": "object",
+      "description": "Optional concise summary of the reported condition; fewer than 10 whitespace-separated words per language. No diagnosis, repair advice, or active/stored claim.",
+      "required": [
+        "en"
+      ],
+      "patternProperties": {
+        "^[a-z]{2}$": {
+          "type": "string",
+          "minLength": 3,
+          "maxLength": 160,
+          "pattern": "^\\S+(?:\\s+\\S+){0,8}$"
+        }
+      },
+      "additionalProperties": false
+    },
     "description": {
       "type": "object",
       "patternProperties": {

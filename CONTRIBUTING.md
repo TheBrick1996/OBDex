@@ -61,3 +61,17 @@ If unsure, omit `common_causes` rather than guess.
 ## Review
 
 Reviewers check: schema validity, source quality, no verbatim copyrighted text, plausibility. Maintainers may rephrase or drop sources without further discussion.
+
+## Short descriptions
+
+`short_description.en` is optional. Summarize the reported condition in fewer
+than 10 whitespace-separated words (maximum nine). Base it on the title and
+explanation; preserve bank, sensor, circuit and failure-mode distinctions.
+Do not infer a failed part, recommend a repair, or claim a fault is active.
+Expand unfamiliar terminology when space permits. Leave the field absent
+until its wording has been reviewed; consumers can fall back to `title.en`.
+An upstream `reviewed` date describes the original entry, not independent
+review of downstream short descriptions.
+
+The initial 14 English summaries cover the OBD-II codes observed in the
+FleetLytics integration trial. J1939 SPN/FMI codes remain outside this dataset.
