@@ -2664,6 +2664,8 @@
     - https://en.wikipedia.org/wiki/Hydraulic_brake
   reviewed: '2026-11-05'
 - code: C004F
+  short_description:
+    en: "ABS Control Module Over Temp"
   category: chassis
   title:
     en: ABS Control Module Over Temperature
@@ -3722,6 +3724,8 @@
     - https://patents.google.com/patent/US6672420B2/en
   reviewed: '2026-11-05'
 - code: C0072
+  short_description:
+    en: "Brake Temp Too High"
   category: chassis
   title:
     en: Brake Temperature Too High
@@ -4729,6 +4733,8 @@
     - https://en.wikipedia.org/wiki/Four-wheel_drive
   reviewed: '2026-11-05'
 - code: C0093
+  short_description:
+    en: "4WD/AWD Power Transfer Unit Temp Sensor"
   category: chassis
   title:
     en: 4WD/AWD Power Transfer Unit Temperature Sensor
@@ -4779,6 +4785,8 @@
     - https://en.wikipedia.org/wiki/Four-wheel_drive
   reviewed: '2026-11-05'
 - code: C0094
+  short_description:
+    en: "4WD/AWD Rear Differential Unit Temp Sensor"
   category: chassis
   title:
     en: 4WD/AWD Rear Differential Unit Temperature Sensor
@@ -16480,6 +16488,8 @@
   sources:
     - https://en.wikipedia.org/wiki/Electronic_parking_brake
 - code: C0579
+  short_description:
+    en: "Brake Booster Temp Sensor B Circuit Low"
   category: chassis
   title:
     en: Brake Booster Temperature Sensor B Circuit Low
@@ -16532,6 +16542,8 @@
     - https://en.wikipedia.org/wiki/Power_brake
     - https://www.bosch-mobility.com/en/solutions/driving-safety/ibooster/
 - code: C057A
+  short_description:
+    en: "Brake Booster Temp Sensor B Circuit High"
   category: chassis
   title:
     en: Brake Booster Temperature Sensor B Circuit High
@@ -16584,6 +16596,8 @@
     - https://en.wikipedia.org/wiki/Power_brake
     - https://www.bosch-mobility.com/en/solutions/driving-safety/ibooster/
 - code: C057B
+  short_description:
+    en: "Brake Booster Temp Sensor B Circuit/Open"
   category: chassis
   title:
     en: Brake Booster Temperature Sensor B Circuit/Open
@@ -16636,6 +16650,8 @@
     - https://en.wikipedia.org/wiki/Power_brake
     - https://www.bosch-mobility.com/en/solutions/driving-safety/ibooster/
 - code: C057C
+  short_description:
+    en: "Brake Booster Temp Sensor B Circuit Range/Performance"
   category: chassis
   title:
     en: Brake Booster Temperature Sensor B Circuit Range/Performance
@@ -16688,6 +16704,8 @@
     - https://en.wikipedia.org/wiki/Power_brake
     - https://www.bosch-mobility.com/en/solutions/driving-safety/ibooster/
 - code: C057D
+  short_description:
+    en: "Brake Booster Temp Sensor Circuit B Intermittent/Erratic"
   category: chassis
   title:
     en: Brake Booster Temperature Sensor Circuit B Intermittent/Erratic
@@ -16739,6 +16757,8 @@
     - https://en.wikipedia.org/wiki/Power_brake
     - https://www.bosch-mobility.com/en/solutions/driving-safety/ibooster/
 - code: C057E
+  short_description:
+    en: "Brake Booster Temp Sensor A/B Correlation"
   category: chassis
   title:
     en: Brake Booster Temperature Sensor A/B Correlation
@@ -18979,6 +18999,8 @@
     - https://github.com/Wal33D/dtc-database
     - https://en.wikipedia.org/wiki/Anti-lock_braking_system
 - code: C05AA
+  short_description:
+    en: "ABS Pump Motor Temp Too High"
   category: chassis
   title:
     en: ABS Pump Motor Temperature Too High
@@ -19399,6 +19421,8 @@
     - https://github.com/Wal33D/dtc-database
     - https://en.wikipedia.org/wiki/Electronic_stability_control
 - code: C05B3
+  short_description:
+    en: "Brake Booster Temp Sensor C Circuit Low"
   category: chassis
   title:
     en: Brake Booster Temperature Sensor C Circuit Low
@@ -19451,6 +19475,8 @@
     - https://en.wikipedia.org/wiki/Power_brake
     - https://www.bosch-mobility.com/en/solutions/driving-safety/ibooster/
 - code: C05B4
+  short_description:
+    en: "Brake Booster Temp Sensor C Circuit High"
   category: chassis
   title:
     en: Brake Booster Temperature Sensor C Circuit High
@@ -19503,6 +19529,8 @@
     - https://en.wikipedia.org/wiki/Power_brake
     - https://www.bosch-mobility.com/en/solutions/driving-safety/ibooster/
 - code: C05B5
+  short_description:
+    en: "Brake Booster Temp Sensor C Circuit/Open"
   category: chassis
   title:
     en: Brake Booster Temperature Sensor C Circuit/Open
@@ -19555,6 +19583,8 @@
     - https://en.wikipedia.org/wiki/Power_brake
     - https://www.bosch-mobility.com/en/solutions/driving-safety/ibooster/
 - code: C05B6
+  short_description:
+    en: "Brake Booster Temp Sensor C Circuit Range/Performance"
   category: chassis
   title:
     en: Brake Booster Temperature Sensor C Circuit Range/Performance
@@ -19607,6 +19637,8 @@
     - https://en.wikipedia.org/wiki/Power_brake
     - https://www.bosch-mobility.com/en/solutions/driving-safety/ibooster/
 - code: C05B7
+  short_description:
+    en: "Brake Booster Temp Sensor C Circuit Intermittent/Erratic"
   category: chassis
   title:
     en: Brake Booster Temperature Sensor C Circuit Intermittent/Erratic
@@ -20189,6 +20221,8 @@
     - https://github.com/Wal33D/dtc-database
     - https://en.wikipedia.org/wiki/Anti-lock_braking_system
 - code: C05C2
+  short_description:
+    en: "Brake Booster Motor A Over Temp"
   category: chassis
   title:
     en: Brake Booster Motor A Over Temperature
@@ -21450,6 +21484,8 @@
     - https://github.com/Wal33D/dtc-database
     - https://en.wikipedia.org/wiki/Four-wheel_drive
 - code: C05DC
+  short_description:
+    en: "4WD/AWD Clutch A Temp Too High"
   category: chassis
   title:
     en: 4WD/AWD Clutch A Temperature Too High
@@ -22189,6 +22225,8 @@
     - https://github.com/Wal33D/dtc-database
     - https://en.wikipedia.org/wiki/Four-wheel_drive
 - code: C05EB
+  short_description:
+    en: "4WD/AWD Clutch B Temp Too High"
   category: chassis
   title:
     en: 4WD/AWD Clutch B Temperature Too High
@@ -22881,6 +22919,8 @@
     - https://github.com/Wal33D/dtc-database
     - https://en.wikipedia.org/wiki/Transfer_case
 - code: C05F9
+  short_description:
+    en: "4WD/AWD Range Actuator Temp Too High"
   category: chassis
   title:
     en: 4WD/AWD Range Actuator Temperature Too High
@@ -25322,6 +25362,8 @@
     - https://github.com/Wal33D/dtc-database
     - https://en.wikipedia.org/wiki/Power_steering
 - code: C062A
+  short_description:
+    en: "Variable Effort Steering Module Temp Too High"
   category: chassis
   title:
     en: Variable Effort Steering Module Temperature Too High
@@ -25366,6 +25408,8 @@
     - https://github.com/Wal33D/dtc-database
     - https://en.wikipedia.org/wiki/Power_steering
 - code: C062B
+  short_description:
+    en: "Variable Effort Steering Module Temp Too Low"
   category: chassis
   title:
     en: Variable Effort Steering Module Temperature Too Low

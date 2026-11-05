@@ -234,3 +234,26 @@ SAE J2012 itself remains copyrighted. This repository contains independently wri
 ## Disclaimer
 
 The data in this repository is provided **as is**, without warranty of any kind, express or implied. Diagnostic trouble codes describe symptoms, not definitive faults; a wrong interpretation can lead to wrong repairs and damage. Always cross-check with the vehicle's service documentation and qualified diagnostic tools before acting on any information from this database. Contributors and maintainers accept no liability for decisions made based on this data.
+
+## Downstream short-description extension
+
+This branch adds optional English `short_description` values for fleet users.
+Twenty labels were approved during editorial review. Additional labels use
+conservative, reproducible terminology rules: DEF, DPF, EGR, NOx and Temp;
+Particulate Matter stays spelled out. The original technical title, explanation,
+sources and upstream review dates remain intact. No repairs or fault status
+are inferred. Existing concise definitions remain the fallback.
+
+Run `node tools/generate-short-descriptions.mjs` to regenerate summaries.
+Approved wording in `data/editorial/approved-short-descriptions.json` wins over
+rules. Do not add a summary identical to the title; do not truncate a label to
+fit the nine-word limit. Retain bank, sensor, circuit and component identifiers.
+
+`data/editorial/short-description-review.json` records every proposed label as
+`user_approved`, `generated`, or `title_fallback`. Generated wording has not
+received the same individual editorial review as the 20 approved labels.
+Upstream `reviewed` dates refer to upstream definitions, not these summaries.
+
+Run `node tools/export-lookup.mjs` to produce `dist/lookup.json` and
+`dist/lookup.csv`. Missing summaries are null; consumers use `title` instead.
+The full catalog remains 9,533 OBD-II codes and data remains CC0.

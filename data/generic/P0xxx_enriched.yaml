@@ -3289,6 +3289,8 @@
   reviewed: '2026-10-09'
 
 - code: P0033
+  short_description:
+    en: "Turbo/Supercharger Bypass Valve A Control Circuit"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Bypass Valve A Control Circuit
@@ -3352,6 +3354,8 @@
   reviewed: '2026-10-09'
 
 - code: P0034
+  short_description:
+    en: "Turbo/Supercharger Bypass Valve A Control Circuit Low"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Bypass Valve A Control Circuit Low
@@ -3414,6 +3418,8 @@
   reviewed: '2026-10-09'
 
 - code: P0035
+  short_description:
+    en: "Turbo/Supercharger Bypass Valve A Control Circuit High"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Bypass Valve A Control Circuit High
@@ -3668,6 +3674,8 @@
   reviewed: '2026-10-09'
 
 - code: P0039
+  short_description:
+    en: "Turbo/Supercharger Bypass Valve A Control Circuit Range/Performance"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Bypass Valve A Control Circuit Range/Performance
@@ -3730,6 +3738,8 @@
   reviewed: '2026-10-09'
 
 - code: P003A
+  short_description:
+    en: "Turbo/Supercharger Boost Control A Position Exceeded Learning Limit"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control A Position Exceeded Learning Limit
@@ -3799,6 +3809,8 @@
   reviewed: '2026-10-09'
 
 - code: P003B
+  short_description:
+    en: "Turbo/Supercharger Boost Control B Position Exceeded Learning Limit"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control B Position Exceeded Learning Limit
@@ -4419,6 +4431,8 @@
   reviewed: '2026-10-09'
 
 - code: P0045
+  short_description:
+    en: "Open Boost Control Circuit A"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control A Circuit/Open
@@ -4487,6 +4501,8 @@
   reviewed: '2026-10-09'
 
 - code: P0046
+  short_description:
+    en: "Turbo/Supercharger Boost Control A Circuit Range/Performance"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control A Circuit Range/Performance
@@ -4555,6 +4571,8 @@
   reviewed: '2026-10-09'
 
 - code: P0047
+  short_description:
+    en: "Turbo/Supercharger Boost Control A Circuit Low"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control A Circuit Low
@@ -4617,6 +4635,8 @@
   reviewed: '2026-10-09'
 
 - code: P0048
+  short_description:
+    en: "Turbo/Supercharger Boost Control A Circuit High"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control A Circuit High
@@ -4679,6 +4699,8 @@
   reviewed: '2026-10-09'
 
 - code: P0049
+  short_description:
+    en: "Turbo/Supercharger A Turbine Overspeed"
   category: powertrain
   title:
     en: Turbocharger/Supercharger A Turbine Overspeed
@@ -4741,6 +4763,8 @@
   reviewed: '2026-10-09'
 
 - code: P004A
+  short_description:
+    en: "Turbo/Supercharger Boost Control B Circuit/Open"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control B Circuit/Open
@@ -4807,6 +4831,8 @@
   reviewed: '2026-10-09'
 
 - code: P004B
+  short_description:
+    en: "Turbo/Supercharger Boost Control B Circuit Range/Performance"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control B Circuit Range/Performance
@@ -4874,6 +4900,8 @@
   reviewed: '2026-10-09'
 
 - code: P004C
+  short_description:
+    en: "Turbo/Supercharger Boost Control B Circuit Low"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control B Circuit Low
@@ -4935,6 +4963,8 @@
   reviewed: '2026-10-09'
 
 - code: P004D
+  short_description:
+    en: "Turbo/Supercharger Boost Control B Circuit High"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control B Circuit High
@@ -4996,6 +5026,8 @@
   reviewed: '2026-10-09'
 
 - code: P004E
+  short_description:
+    en: "Turbo/Supercharger Boost Control A Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control A Circuit Intermittent/Erratic
@@ -5057,6 +5089,8 @@
   reviewed: '2026-10-09'
 
 - code: P004F
+  short_description:
+    en: "Turbo/Supercharger Boost Control B Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control B Circuit Intermittent/Erratic
@@ -5996,6 +6030,8 @@
   reviewed: '2026-10-09'
 
 - code: P005E
+  short_description:
+    en: "Turbo/Supercharger Boost Control B Supply Voltage Circuit Low"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control B Supply Voltage Circuit Low
@@ -6057,6 +6093,8 @@
   reviewed: '2026-10-09'
 
 - code: P005F
+  short_description:
+    en: "Turbo/Supercharger Boost Control B Supply Voltage Circuit High"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control B Supply Voltage Circuit High
@@ -6840,6 +6878,8 @@
   reviewed: '2026-10-09'
 
 - code: P006C
+  short_description:
+    en: "MAP - Turbo/Supercharger Inlet Pressure Correlation"
   category: powertrain
   title:
     en: MAP - Turbocharger/Supercharger Inlet Pressure Correlation
@@ -6900,6 +6940,8 @@
   reviewed: '2026-10-09'
 
 - code: P006D
+  short_description:
+    en: "Barometric Pressure - Turbo/Supercharger Inlet Pressure Correlation Bank 1"
   category: powertrain
   title:
     en: Barometric Pressure - Turbocharger/Supercharger Inlet Pressure Correlation Bank 1
@@ -6959,6 +7001,8 @@
   reviewed: '2026-10-09'
 
 - code: P006E
+  short_description:
+    en: "Turbo/Supercharger Boost Control A Supply Voltage Circuit Low"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control A Supply Voltage Circuit Low
@@ -7019,6 +7063,8 @@
   reviewed: '2026-10-09'
 
 - code: P006F
+  short_description:
+    en: "Turbo/Supercharger Boost Control A Supply Voltage Circuit High"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control A Supply Voltage Circuit High
@@ -7079,6 +7125,8 @@
   reviewed: '2026-10-09'
 
 - code: P0070
+  short_description:
+    en: "Ambient Air Temp Sensor Circuit A"
   category: powertrain
   title:
     en: Ambient Air Temperature Sensor Circuit A
@@ -7141,6 +7189,8 @@
   reviewed: '2026-10-09'
 
 - code: P0071
+  short_description:
+    en: "Ambient Air Temp Sensor Circuit A Range/Performance"
   category: powertrain
   title:
     en: Ambient Air Temperature Sensor Circuit A Range/Performance
@@ -7204,6 +7254,8 @@
   reviewed: '2026-10-09'
 
 - code: P0072
+  short_description:
+    en: "Ambient Air Temp Sensor Circuit A Low"
   category: powertrain
   title:
     en: Ambient Air Temperature Sensor Circuit A Low
@@ -7268,6 +7320,8 @@
   reviewed: '2026-10-09'
 
 - code: P0073
+  short_description:
+    en: "Ambient Air Temp Sensor Circuit A High"
   category: powertrain
   title:
     en: Ambient Air Temperature Sensor Circuit A High
@@ -7331,6 +7385,8 @@
   reviewed: '2026-10-09'
 
 - code: P0074
+  short_description:
+    en: "Ambient Air Temp Sensor Circuit A Intermittent/Erratic"
   category: powertrain
   title:
     en: Ambient Air Temperature Sensor Circuit A Intermittent/Erratic
@@ -7695,6 +7751,8 @@
   reviewed: '2026-10-09'
 
 - code: P007A
+  short_description:
+    en: "Charge Air Cooler Temp Sensor Circuit Bank 1"
   category: powertrain
   title:
     en: Charge Air Cooler Temperature Sensor Circuit Bank 1
@@ -7754,6 +7812,8 @@
   reviewed: '2026-10-09'
 
 - code: P007B
+  short_description:
+    en: "Charge Air Cooler Temp Sensor Circuit Range/Performance Bank 1"
   category: powertrain
   title:
     en: Charge Air Cooler Temperature Sensor Circuit Range/Performance Bank 1
@@ -7814,6 +7874,8 @@
   reviewed: '2026-10-09'
 
 - code: P007C
+  short_description:
+    en: "Charge Air Cooler Temp Sensor Circuit Low Bank 1"
   category: powertrain
   title:
     en: Charge Air Cooler Temperature Sensor Circuit Low Bank 1
@@ -7875,6 +7937,8 @@
   reviewed: '2026-10-09'
 
 - code: P007D
+  short_description:
+    en: "Charge Air Cooler Temp Sensor Circuit High Bank 1"
   category: powertrain
   title:
     en: Charge Air Cooler Temperature Sensor Circuit High Bank 1
@@ -7936,6 +8000,8 @@
   reviewed: '2026-10-09'
 
 - code: P007E
+  short_description:
+    en: "Charge Air Cooler Temp Sensor Circuit Intermittent/Erratic Bank 1"
   category: powertrain
   title:
     en: Charge Air Cooler Temperature Sensor Circuit Intermittent/Erratic Bank 1
@@ -7990,6 +8056,8 @@
   reviewed: '2026-10-09'
 
 - code: P007F
+  short_description:
+    en: "Charge Air Cooler Temp Sensor Bank1/Bank2 Correlation"
   category: powertrain
   title:
     en: Charge Air Cooler Temperature Sensor Bank1/Bank2 Correlation
@@ -8473,6 +8541,8 @@
   reviewed: '2026-10-09'
 
 - code: P0087
+  short_description:
+    en: "Low Fuel Pressure"
   category: powertrain
   title:
     en: Fuel Rail/System Pressure - Too Low
@@ -8965,6 +9035,8 @@
   reviewed: '2026-10-09'
 
 - code: P008F
+  short_description:
+    en: "Engine Coolant Temp/Fuel Temp Correlation"
   category: powertrain
   title:
     en: Engine Coolant Temperature/Fuel Temperature Correlation
@@ -9325,6 +9397,8 @@
   reviewed: '2026-10-09'
 
 - code: P0095
+  short_description:
+    en: "Intake Air Temp Sensor 2 Circuit Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 2 Circuit Bank 1
@@ -9383,6 +9457,8 @@
   reviewed: '2026-10-09'
 
 - code: P0096
+  short_description:
+    en: "Intake Air Temp Sensor 2 Circuit Range/Performance Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 2 Circuit Range/Performance Bank 1
@@ -9443,6 +9519,8 @@
   reviewed: '2026-10-09'
 
 - code: P0097
+  short_description:
+    en: "Intake Air Temp Sensor 2 Circuit Low Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 2 Circuit Low Bank 1
@@ -9504,6 +9582,8 @@
   reviewed: '2026-10-09'
 
 - code: P0098
+  short_description:
+    en: "Intake Air Temp Sensor 2 Circuit High Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 2 Circuit High Bank 1
@@ -9565,6 +9645,8 @@
   reviewed: '2026-10-09'
 
 - code: P0099
+  short_description:
+    en: "Intake Air Temp Sensor 2 Circuit Intermittent/Erratic Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 2 Circuit Intermittent/Erratic Bank 1
@@ -9620,6 +9702,8 @@
   reviewed: '2026-10-09'
 
 - code: P009A
+  short_description:
+    en: "Intake Air Temp/Ambient Air Temp Correlation"
   category: powertrain
   title:
     en: Intake Air Temperature/Ambient Air Temperature Correlation
@@ -9944,6 +10028,8 @@
   reviewed: '2026-10-09'
 
 - code: P00A0
+  short_description:
+    en: "Charge Air Cooler Temp Sensor Circuit Bank 2"
   category: powertrain
   title:
     en: Charge Air Cooler Temperature Sensor Circuit Bank 2
@@ -10002,6 +10088,8 @@
   reviewed: '2026-10-09'
 
 - code: P00A1
+  short_description:
+    en: "Charge Air Cooler Temp Sensor Circuit Range/Performance Bank 2"
   category: powertrain
   title:
     en: Charge Air Cooler Temperature Sensor Circuit Range/Performance Bank 2
@@ -10060,6 +10148,8 @@
   reviewed: '2026-10-09'
 
 - code: P00A2
+  short_description:
+    en: "Charge Air Cooler Temp Sensor Circuit Low Bank 2"
   category: powertrain
   title:
     en: Charge Air Cooler Temperature Sensor Circuit Low Bank 2
@@ -10118,6 +10208,8 @@
   reviewed: '2026-10-09'
 
 - code: P00A3
+  short_description:
+    en: "Charge Air Cooler Temp Sensor Circuit High Bank 2"
   category: powertrain
   title:
     en: Charge Air Cooler Temperature Sensor Circuit High Bank 2
@@ -10176,6 +10268,8 @@
   reviewed: '2026-10-09'
 
 - code: P00A4
+  short_description:
+    en: "Charge Air Cooler Temp Sensor Circuit Intermittent/Erratic Bank 2"
   category: powertrain
   title:
     en: Charge Air Cooler Temperature Sensor Circuit Intermittent/Erratic Bank 2
@@ -10229,6 +10323,8 @@
   reviewed: '2026-10-09'
 
 - code: P00A5
+  short_description:
+    en: "Intake Air Temp Sensor 2 Circuit Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 2 Circuit Bank 2
@@ -10287,6 +10383,8 @@
   reviewed: '2026-10-09'
 
 - code: P00A6
+  short_description:
+    en: "Intake Air Temp Sensor 2 Circuit Range/Performance Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 2 Circuit Range/Performance Bank 2
@@ -10345,6 +10443,8 @@
   reviewed: '2026-10-09'
 
 - code: P00A7
+  short_description:
+    en: "Intake Air Temp Sensor 2 Circuit Low Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 2 Circuit Low Bank 2
@@ -10403,6 +10503,8 @@
   reviewed: '2026-10-09'
 
 - code: P00A8
+  short_description:
+    en: "Intake Air Temp Sensor 2 Circuit High Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 2 Circuit High Bank 2
@@ -10461,6 +10563,8 @@
   reviewed: '2026-10-09'
 
 - code: P00A9
+  short_description:
+    en: "Intake Air Temp Sensor 2 Circuit Intermittent/Erratic Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 2 Circuit Intermittent/Erratic Bank 2
@@ -10514,6 +10618,8 @@
   reviewed: '2026-10-09'
 
 - code: P00AA
+  short_description:
+    en: "Intake Air Temp Sensor 1 Circuit Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 1 Circuit Bank 2
@@ -10572,6 +10678,8 @@
   reviewed: '2026-10-09'
 
 - code: P00AB
+  short_description:
+    en: "Intake Air Temp Sensor 1 Circuit Range/Performance Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 1 Circuit Range/Performance Bank 2
@@ -10630,6 +10738,8 @@
   reviewed: '2026-10-09'
 
 - code: P00AC
+  short_description:
+    en: "Intake Air Temp Sensor 1 Circuit Low Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 1 Circuit Low Bank 2
@@ -10688,6 +10798,8 @@
   reviewed: '2026-10-09'
 
 - code: P00AD
+  short_description:
+    en: "Intake Air Temp Sensor 1 Circuit High Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 1 Circuit High Bank 2
@@ -10746,6 +10858,8 @@
   reviewed: '2026-10-09'
 
 - code: P00AE
+  short_description:
+    en: "Intake Air Temp Sensor 1 Circuit Intermittent Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 1 Circuit Intermittent Bank 2
@@ -10799,6 +10913,8 @@
   reviewed: '2026-10-09'
 
 - code: P00AF
+  short_description:
+    en: "Turbo/Supercharger Boost Control A Module Performance"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control A Module Performance
@@ -10859,6 +10975,8 @@
   reviewed: '2026-10-09'
 
 - code: P00B0
+  short_description:
+    en: "Turbo/Supercharger Boost Control B Module Performance"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control B Module Performance
@@ -10915,6 +11033,8 @@
   reviewed: '2026-10-09'
 
 - code: P00B1
+  short_description:
+    en: "Radiator Coolant Temp Sensor Circuit"
   category: powertrain
   title:
     en: Radiator Coolant Temperature Sensor Circuit
@@ -10973,6 +11093,8 @@
   reviewed: '2026-10-09'
 
 - code: P00B2
+  short_description:
+    en: "Radiator Coolant Temp Sensor Circuit Range/Performance"
   category: powertrain
   title:
     en: Radiator Coolant Temperature Sensor Circuit Range/Performance
@@ -11031,6 +11153,8 @@
   reviewed: '2026-10-09'
 
 - code: P00B3
+  short_description:
+    en: "Radiator Coolant Temp Sensor Circuit Low"
   category: powertrain
   title:
     en: Radiator Coolant Temperature Sensor Circuit Low
@@ -11091,6 +11215,8 @@
   reviewed: '2026-10-09'
 
 - code: P00B4
+  short_description:
+    en: "Radiator Coolant Temp Sensor Circuit High"
   category: powertrain
   title:
     en: Radiator Coolant Temperature Sensor Circuit High
@@ -11151,6 +11277,8 @@
   reviewed: '2026-10-09'
 
 - code: P00B5
+  short_description:
+    en: "Radiator Coolant Temp Sensor Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Radiator Coolant Temperature Sensor Circuit Intermittent/Erratic
@@ -11209,6 +11337,8 @@
   reviewed: '2026-10-09'
 
 - code: P00B6
+  short_description:
+    en: "Radiator Coolant Temp/Engine Coolant Temp Correlation"
   category: powertrain
   title:
     en: Radiator Coolant Temperature/Engine Coolant Temperature Correlation
@@ -11804,6 +11934,8 @@
   reviewed: '2026-10-09'
 
 - code: P00C0
+  short_description:
+    en: "Turbo/Supercharger Bypass Valve B Control Circuit"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Bypass Valve B Control Circuit
@@ -11858,6 +11990,8 @@
   reviewed: '2026-10-09'
 
 - code: P00C1
+  short_description:
+    en: "Turbo/Supercharger Bypass Valve B Control Circuit Low"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Bypass Valve B Control Circuit Low
@@ -11913,6 +12047,8 @@
   reviewed: '2026-10-09'
 
 - code: P00C2
+  short_description:
+    en: "Turbo/Supercharger Bypass Valve B Control Circuit High"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Bypass Valve B Control Circuit High
@@ -11968,6 +12104,8 @@
   reviewed: '2026-10-09'
 
 - code: P00C3
+  short_description:
+    en: "Turbo/Supercharger Bypass Valve B Control Circuit Range/Performance"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Bypass Valve B Control Circuit Range/Performance
@@ -12022,6 +12160,8 @@
   reviewed: '2026-10-09'
 
 - code: P00C4
+  short_description:
+    en: "Turbo/Supercharger Bypass Valve B - Mechanical"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Bypass Valve B - Mechanical
@@ -12080,6 +12220,8 @@
   reviewed: '2026-10-09'
 
 - code: P00C5
+  short_description:
+    en: "Turbo/Supercharger B Turbine Overspeed"
   category: powertrain
   title:
     en: Turbocharger/Supercharger B Turbine Overspeed
@@ -12668,6 +12810,8 @@
   reviewed: '2026-10-09'
 
 - code: P00CF
+  short_description:
+    en: "Barometric Pressure - Turbo/Supercharger Boost Sensor A Correlation"
   category: powertrain
   title:
     en: Barometric Pressure - Turbocharger/Supercharger Boost Sensor A Correlation
@@ -12727,6 +12871,8 @@
   reviewed: '2026-10-09'
 
 - code: P00D0
+  short_description:
+    en: "Barometric Pressure - Turbo/Supercharger Boost Sensor B Correlation"
   category: powertrain
   title:
     en: Barometric Pressure - Turbocharger/Supercharger Boost Sensor B Correlation
@@ -13161,6 +13307,8 @@
   reviewed: '2026-10-09'
 
 - code: P00D7
+  short_description:
+    en: "Turbo/Supercharger Bypass Valve A Temp Too High"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Bypass Valve A Temperature Too High
@@ -13221,6 +13369,8 @@
   reviewed: '2026-10-09'
 
 - code: P00D8
+  short_description:
+    en: "Turbo/Supercharger Bypass Valve B Temp Too High"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Bypass Valve B Temperature Too High
@@ -13281,6 +13431,8 @@
   reviewed: '2026-10-09'
 
 - code: P00D9
+  short_description:
+    en: "Ambient Air Temp Sensor Circuit B"
   category: powertrain
   title:
     en: Ambient Air Temperature Sensor Circuit B
@@ -13339,6 +13491,8 @@
   reviewed: '2026-10-09'
 
 - code: P00DA
+  short_description:
+    en: "Ambient Air Temp Sensor Circuit B Range/Performance"
   category: powertrain
   title:
     en: Ambient Air Temperature Sensor Circuit B Range/Performance
@@ -13397,6 +13551,8 @@
   reviewed: '2026-10-09'
 
 - code: P00DB
+  short_description:
+    en: "Ambient Air Temp Sensor Circuit B Low"
   category: powertrain
   title:
     en: Ambient Air Temperature Sensor Circuit B Low
@@ -13455,6 +13611,8 @@
   reviewed: '2026-10-09'
 
 - code: P00DC
+  short_description:
+    en: "Ambient Air Temp Sensor Circuit B High"
   category: powertrain
   title:
     en: Ambient Air Temperature Sensor Circuit B High
@@ -13513,6 +13671,8 @@
   reviewed: '2026-10-09'
 
 - code: P00DD
+  short_description:
+    en: "Ambient Air Temp Sensor Circuit B Intermittent/Erratic"
   category: powertrain
   title:
     en: Ambient Air Temperature Sensor Circuit B Intermittent/Erratic
@@ -13571,6 +13731,8 @@
   reviewed: '2026-10-09'
 
 - code: P00DE
+  short_description:
+    en: "Charge Air Cooler Coolant Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Charge Air Cooler Coolant Temperature Sensor A Circuit
@@ -13631,6 +13793,8 @@
   reviewed: '2026-10-09'
 
 - code: P00DF
+  short_description:
+    en: "Charge Air Cooler Coolant Temp Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Charge Air Cooler Coolant Temperature Sensor A Circuit Range/Performance
@@ -13692,6 +13856,8 @@
   reviewed: '2026-10-09'
 
 - code: P00E0
+  short_description:
+    en: "Charge Air Cooler Coolant Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Charge Air Cooler Coolant Temperature Sensor A Circuit Low
@@ -13754,6 +13920,8 @@
   reviewed: '2026-10-09'
 
 - code: P00E1
+  short_description:
+    en: "Charge Air Cooler Coolant Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Charge Air Cooler Coolant Temperature Sensor A Circuit High
@@ -13816,6 +13984,8 @@
   reviewed: '2026-10-09'
 
 - code: P00E2
+  short_description:
+    en: "Charge Air Cooler Coolant Temp Sensor A Intermittent/Erratic"
   category: powertrain
   title:
     en: Charge Air Cooler Coolant Temperature Sensor A Intermittent/Erratic
@@ -13999,6 +14169,8 @@
   reviewed: '2026-10-09'
 
 - code: P00E5
+  short_description:
+    en: "Intake Air Temp/Fuel Temp Correlation"
   category: powertrain
   title:
     en: Intake Air Temperature/Fuel Temperature Correlation
@@ -14173,6 +14345,8 @@
   reviewed: '2026-10-09'
 
 - code: P00E8
+  short_description:
+    en: "Intake Air Temp Sensor 3 Circuit Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 3 Circuit Bank 1
@@ -14226,6 +14400,8 @@
   reviewed: '2026-10-09'
 
 - code: P00E9
+  short_description:
+    en: "Intake Air Temp Sensor 3 Circuit Range/Performance Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 3 Circuit Range/Performance Bank 1
@@ -14284,6 +14460,8 @@
   reviewed: '2026-10-09'
 
 - code: P00EA
+  short_description:
+    en: "Intake Air Temp Sensor 3 Circuit Low Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 3 Circuit Low Bank 1
@@ -14337,6 +14515,8 @@
   reviewed: '2026-10-09'
 
 - code: P00EB
+  short_description:
+    en: "Intake Air Temp Sensor 3 Circuit High Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 3 Circuit High Bank 1
@@ -14390,6 +14570,8 @@
   reviewed: '2026-10-09'
 
 - code: P00EC
+  short_description:
+    en: "Intake Air Temp Sensor 3 Circuit Intermittent/Erratic Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 3 Circuit Intermittent/Erratic Bank 1
@@ -14443,6 +14625,8 @@
   reviewed: '2026-10-09'
 
 - code: P00ED
+  short_description:
+    en: "Intake Air Temp Sensor 3 Circuit Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 3 Circuit Bank 2
@@ -14496,6 +14680,8 @@
   reviewed: '2026-10-09'
 
 - code: P00EE
+  short_description:
+    en: "Intake Air Temp Sensor 3 Circuit Range/Performance Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 3 Circuit Range/Performance Bank 2
@@ -14554,6 +14740,8 @@
   reviewed: '2026-10-09'
 
 - code: P00EF
+  short_description:
+    en: "Intake Air Temp Sensor 3 Circuit Low Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 3 Circuit Low Bank 2
@@ -14607,6 +14795,8 @@
   reviewed: '2026-10-09'
 
 - code: P00F0
+  short_description:
+    en: "Intake Air Temp Sensor 3 Circuit High Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 3 Circuit High Bank 2
@@ -14660,6 +14850,8 @@
   reviewed: '2026-10-09'
 
 - code: P00F1
+  short_description:
+    en: "Intake Air Temp Sensor 3 Circuit Intermittent/Erratic Bank 2"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 3 Circuit Intermittent/Erratic Bank 2
@@ -14978,6 +15170,8 @@
   reviewed: '2026-10-09'
 
 - code: P00F7
+  short_description:
+    en: "Barometric Pressure - Turbo/Supercharger Inlet Pressure Correlation Bank 2"
   category: powertrain
   title:
     en: Barometric Pressure - Turbocharger/Supercharger Inlet Pressure Correlation Bank 2
@@ -15037,6 +15231,8 @@
   reviewed: '2026-10-09'
 
 - code: P00F8
+  short_description:
+    en: "Turbo Outlet Pressure Sensor A Circuit"
   category: powertrain
   title:
     en: Turbocharger Outlet Pressure Sensor A Circuit
@@ -15096,6 +15292,8 @@
   reviewed: '2026-10-09'
 
 - code: P00F9
+  short_description:
+    en: "Turbo Outlet Pressure Sensor A Range/Performance"
   category: powertrain
   title:
     en: Turbocharger Outlet Pressure Sensor A Range/Performance
@@ -15155,6 +15353,8 @@
   reviewed: '2026-10-09'
 
 - code: P00FA
+  short_description:
+    en: "Turbo Outlet Pressure Sensor A Circuit Low"
   category: powertrain
   title:
     en: Turbocharger Outlet Pressure Sensor A Circuit Low
@@ -15214,6 +15414,8 @@
   reviewed: '2026-10-09'
 
 - code: P00FB
+  short_description:
+    en: "Turbo Outlet Pressure Sensor A Circuit High"
   category: powertrain
   title:
     en: Turbocharger Outlet Pressure Sensor A Circuit High
@@ -15274,6 +15476,8 @@
   reviewed: '2026-10-09'
 
 - code: P00FC
+  short_description:
+    en: "Turbo Outlet Pressure Sensor A Intermittent/Erratic"
   category: powertrain
   title:
     en: Turbocharger Outlet Pressure Sensor A Intermittent/Erratic
@@ -15467,6 +15671,8 @@
   reviewed: '2026-10-09'
 
 - code: P00FF
+  short_description:
+    en: "Body Control Module Requested Check Engine Light"
   category: powertrain
   title:
     en: Body Control Module Requested MIL Illumination
@@ -16529,6 +16735,8 @@
   reviewed: '2026-10-09'
 
 - code: P0110
+  short_description:
+    en: "Intake Air Temp Sensor 1 Circuit Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 1 Circuit Bank 1
@@ -16588,6 +16796,8 @@
   reviewed: '2026-10-09'
 
 - code: P0111
+  short_description:
+    en: "Intake Air Temp Sensor 1 Circuit Range/Performance Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 1 Circuit Range/Performance Bank 1
@@ -16650,6 +16860,8 @@
   reviewed: '2026-10-09'
 
 - code: P0112
+  short_description:
+    en: "Intake Air Temp Sensor 1 Circuit Low Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 1 Circuit Low Bank 1
@@ -16712,6 +16924,8 @@
   reviewed: '2026-10-09'
 
 - code: P0113
+  short_description:
+    en: "Intake Air Temp Sensor 1 Circuit High Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 1 Circuit High Bank 1
@@ -16779,6 +16993,8 @@
   reviewed: '2026-10-09'
 
 - code: P0114
+  short_description:
+    en: "Intake Air Temp Sensor 1 Circuit Intermittent/Erratic Bank 1"
   category: powertrain
   title:
     en: Intake Air Temperature Sensor 1 Circuit Intermittent/Erratic Bank 1
@@ -16839,6 +17055,8 @@
   reviewed: '2026-10-09'
 
 - code: P0115
+  short_description:
+    en: "Engine Coolant Temp Sensor 1 Circuit"
   category: powertrain
   title:
     en: Engine Coolant Temperature Sensor 1 Circuit
@@ -16901,6 +17119,8 @@
   reviewed: '2026-10-09'
 
 - code: P0116
+  short_description:
+    en: "Engine Coolant Temp Sensor 1 Circuit Range/Performance"
   category: powertrain
   title:
     en: Engine Coolant Temperature Sensor 1 Circuit Range/Performance
@@ -16968,6 +17188,8 @@
   reviewed: '2026-10-09'
 
 - code: P0117
+  short_description:
+    en: "Engine Coolant Temp Sensor 1 Circuit Low"
   category: powertrain
   title:
     en: Engine Coolant Temperature Sensor 1 Circuit Low
@@ -17032,6 +17254,8 @@
   reviewed: '2026-10-09'
 
 - code: P0118
+  short_description:
+    en: "Engine Coolant Temp Sensor 1 Circuit High"
   category: powertrain
   title:
     en: Engine Coolant Temperature Sensor 1 Circuit High
@@ -17100,6 +17324,8 @@
   reviewed: '2026-10-09'
 
 - code: P0119
+  short_description:
+    en: "Engine Coolant Temp Sensor 1 Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Engine Coolant Temperature Sensor 1 Circuit Intermittent/Erratic
@@ -17161,6 +17387,8 @@
   reviewed: '2026-10-09'
 
 - code: P011A
+  short_description:
+    en: "Engine Coolant Temp Sensor 1/2 Correlation"
   category: powertrain
   title:
     en: Engine Coolant Temperature Sensor 1/2 Correlation
@@ -17225,6 +17453,8 @@
   reviewed: '2026-10-09'
 
 - code: P011B
+  short_description:
+    en: "Engine Coolant Temp/Intake Air Temp Correlation"
   category: powertrain
   title:
     en: Engine Coolant Temperature/Intake Air Temperature Correlation
@@ -17292,6 +17522,8 @@
   reviewed: '2026-10-09'
 
 - code: P011C
+  short_description:
+    en: "Charge Air Cooler Temp/Intake Air Temp Correlation Bank 1"
   category: powertrain
   title:
     en: Charge Air Cooler Temperature/Intake Air Temperature Correlation Bank 1
@@ -17351,6 +17583,8 @@
   reviewed: '2026-10-09'
 
 - code: P011D
+  short_description:
+    en: "Charge Air Cooler Temp/Intake Air Temp Correlation Bank 2"
   category: powertrain
   title:
     en: Charge Air Cooler Temperature/Intake Air Temperature Correlation Bank 2
@@ -17410,6 +17644,8 @@
   reviewed: '2026-10-09'
 
 - code: P011E
+  short_description:
+    en: "Engine Coolant Temp 1 / Ambient Air Temp Correlation"
   category: powertrain
   title:
     en: Engine Coolant Temperature 1 / Ambient Air Temperature Correlation
@@ -17470,6 +17706,8 @@
   reviewed: '2026-10-09'
 
 - code: P011F
+  short_description:
+    en: "Engine Coolant Temp 2 / Ambient Air Temp Correlation"
   category: powertrain
   title:
     en: Engine Coolant Temperature 2 / Ambient Air Temperature Correlation
@@ -17855,6 +18093,8 @@
   reviewed: '2026-10-09'
 
 - code: P0125
+  short_description:
+    en: "Insufficient Coolant Temp for Closed Loop Fuel Control"
   category: powertrain
   title:
     en: Insufficient Coolant Temperature for Closed Loop Fuel Control
@@ -17922,6 +18162,8 @@
   reviewed: '2026-10-09'
 
 - code: P0126
+  short_description:
+    en: "Insufficient Coolant Temp for Stable Operation"
   category: powertrain
   title:
     en: Insufficient Coolant Temperature for Stable Operation
@@ -17983,6 +18225,8 @@
   reviewed: '2026-10-09'
 
 - code: P0127
+  short_description:
+    en: "Intake Air Temp Too High"
   category: powertrain
   title:
     en: Intake Air Temperature Too High
@@ -18045,6 +18289,8 @@
   reviewed: '2026-10-09'
 
 - code: P0128
+  short_description:
+    en: "Coolant Thermostat (Coolant Temp Below Thermostat Regulating Temp)"
   category: powertrain
   title:
     en: Coolant Thermostat (Coolant Temperature Below Thermostat Regulating Temperature)
@@ -18174,6 +18420,8 @@
   reviewed: '2026-10-09'
 
 - code: P012A
+  short_description:
+    en: "Turbo/Supercharger Inlet Pressure Sensor A Circuit"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Inlet Pressure Sensor A Circuit
@@ -18234,6 +18482,8 @@
   reviewed: '2026-10-09'
 
 - code: P012B
+  short_description:
+    en: "Turbo/Supercharger Inlet Pressure Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Inlet Pressure Sensor A Circuit Range/Performance
@@ -18300,6 +18550,8 @@
   reviewed: '2026-10-09'
 
 - code: P012C
+  short_description:
+    en: "Turbo/Supercharger Inlet Pressure Sensor A Circuit Low"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Inlet Pressure Sensor A Circuit Low
@@ -18365,6 +18617,8 @@
   reviewed: '2026-10-09'
 
 - code: P012D
+  short_description:
+    en: "Turbo/Supercharger Inlet Pressure Sensor A Circuit High"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Inlet Pressure Sensor A Circuit High
@@ -18425,6 +18679,8 @@
   reviewed: '2026-10-09'
 
 - code: P012E
+  short_description:
+    en: "Turbo/Supercharger Inlet Pressure Sensor A Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Inlet Pressure Sensor A Circuit Intermittent/Erratic
@@ -18485,6 +18741,8 @@
   reviewed: '2026-10-09'
 
 - code: P012F
+  short_description:
+    en: "Engine Coolant Temp / Engine Oil Temp Correlation"
   category: powertrain
   title:
     en: Engine Coolant Temperature / Engine Oil Temperature Correlation
@@ -22069,6 +22327,8 @@
   reviewed: '2026-10-09'
 
 - code: P0168
+  short_description:
+    en: "Fuel Temp Too High"
   category: powertrain
   title:
     en: Fuel Temperature Too High
@@ -22628,6 +22888,8 @@
   reviewed: '2026-10-09'
 
 - code: P0171
+  short_description:
+    en: "Lean Fuel Mixture Bank 1"
   category: powertrain
   title:
     en: System Too Lean Bank 1
@@ -22700,6 +22962,8 @@
   reviewed: '2026-10-09'
 
 - code: P0172
+  short_description:
+    en: "Rich Fuel Mixture — Bank 1"
   category: powertrain
   title:
     en: System Too Rich Bank 1
@@ -22832,6 +23096,8 @@
   reviewed: '2026-10-09'
 
 - code: P0174
+  short_description:
+    en: "Lean Fuel Mixture Bank 2"
   category: powertrain
   title:
     en: System Too Lean Bank 2
@@ -22903,6 +23169,8 @@
   reviewed: '2026-10-09'
 
 - code: P0175
+  short_description:
+    en: "Rich Fuel Mixture Bank 2"
   category: powertrain
   title:
     en: System Too Rich Bank 2
@@ -23206,6 +23474,8 @@
   reviewed: '2026-10-09'
 
 - code: P017A
+  short_description:
+    en: "Cylinder Head Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Cylinder Head Temperature Sensor A Circuit
@@ -23262,6 +23532,8 @@
   reviewed: '2026-10-09'
 
 - code: P017B
+  short_description:
+    en: "Cylinder Head Temp Sensor A Range/Performance"
   category: powertrain
   title:
     en: Cylinder Head Temperature Sensor A Range/Performance
@@ -23325,6 +23597,8 @@
   reviewed: '2026-10-09'
 
 - code: P017C
+  short_description:
+    en: "Cylinder Head Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Cylinder Head Temperature Sensor A Circuit Low
@@ -23385,6 +23659,8 @@
   reviewed: '2026-10-09'
 
 - code: P017D
+  short_description:
+    en: "Cylinder Head Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Cylinder Head Temperature Sensor A Circuit High
@@ -23447,6 +23723,8 @@
   reviewed: '2026-10-09'
 
 - code: P017E
+  short_description:
+    en: "Cylinder Head Temp Sensor A Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Cylinder Head Temperature Sensor A Circuit Intermittent/Erratic
@@ -23570,6 +23848,8 @@
   reviewed: '2026-10-09'
 
 - code: P0180
+  short_description:
+    en: "Fuel Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Fuel Temperature Sensor A Circuit
@@ -23621,6 +23901,8 @@
   reviewed: '2026-10-09'
 
 - code: P0181
+  short_description:
+    en: "Fuel Temp Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Fuel Temperature Sensor A Circuit Range/Performance
@@ -23687,6 +23969,8 @@
   reviewed: '2026-10-09'
 
 - code: P0182
+  short_description:
+    en: "Fuel Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Fuel Temperature Sensor A Circuit Low
@@ -23748,6 +24032,8 @@
   reviewed: '2026-10-09'
 
 - code: P0183
+  short_description:
+    en: "Fuel Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Fuel Temperature Sensor A Circuit High
@@ -23815,6 +24101,8 @@
   reviewed: '2026-10-09'
 
 - code: P0184
+  short_description:
+    en: "Fuel Temp Sensor A Circuit Intermittent"
   category: powertrain
   title:
     en: Fuel Temperature Sensor A Circuit Intermittent
@@ -23873,6 +24161,8 @@
   reviewed: '2026-10-09'
 
 - code: P0185
+  short_description:
+    en: "Fuel Temp Sensor B Circuit"
   category: powertrain
   title:
     en: Fuel Temperature Sensor B Circuit
@@ -23924,6 +24214,8 @@
   reviewed: '2026-10-09'
 
 - code: P0186
+  short_description:
+    en: "Fuel Temp Sensor B Circuit Range/Performance"
   category: powertrain
   title:
     en: Fuel Temperature Sensor B Circuit Range/Performance
@@ -23974,6 +24266,8 @@
   reviewed: '2026-10-09'
 
 - code: P0187
+  short_description:
+    en: "Fuel Temp Sensor B Circuit Low"
   category: powertrain
   title:
     en: Fuel Temperature Sensor B Circuit Low
@@ -24032,6 +24326,8 @@
   reviewed: '2026-10-09'
 
 - code: P0188
+  short_description:
+    en: "Fuel Temp Sensor B Circuit High"
   category: powertrain
   title:
     en: Fuel Temperature Sensor B Circuit High
@@ -24090,6 +24386,8 @@
   reviewed: '2026-10-09'
 
 - code: P0189
+  short_description:
+    en: "Fuel Temp Sensor B Circuit Intermittent"
   category: powertrain
   title:
     en: Fuel Temperature Sensor B Circuit Intermittent
@@ -24841,6 +25139,8 @@
   reviewed: '2026-10-09'
 
 - code: P0195
+  short_description:
+    en: "Engine Oil Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Engine Oil Temperature Sensor A Circuit
@@ -24902,6 +25202,8 @@
   reviewed: '2026-10-09'
 
 - code: P0196
+  short_description:
+    en: "Engine Oil Temp Sensor A Range/Performance"
   category: powertrain
   title:
     en: Engine Oil Temperature Sensor A Range/Performance
@@ -24971,6 +25273,8 @@
   reviewed: '2026-10-09'
 
 - code: P0197
+  short_description:
+    en: "Engine Oil Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Engine Oil Temperature Sensor A Circuit Low
@@ -25034,6 +25338,8 @@
   reviewed: '2026-10-09'
 
 - code: P0198
+  short_description:
+    en: "Engine Oil Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Engine Oil Temperature Sensor A Circuit High
@@ -25096,6 +25402,8 @@
   reviewed: '2026-10-09'
 
 - code: P0199
+  short_description:
+    en: "Engine Oil Temp Sensor A Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Engine Oil Temperature Sensor A Circuit Intermittent/Erratic
@@ -26160,6 +26468,8 @@
   reviewed: '2026-10-09'
 
 - code: P01AA
+  short_description:
+    en: "Alternative Fuel Tank Temp Sensor Circuit"
   category: powertrain
   title:
     en: Alternative Fuel Tank Temperature Sensor Circuit
@@ -26214,6 +26524,8 @@
   reviewed: '2026-10-09'
 
 - code: P01AB
+  short_description:
+    en: "Alternative Fuel Tank Temp Sensor Range/Performance"
   category: powertrain
   title:
     en: Alternative Fuel Tank Temperature Sensor Range/Performance
@@ -26268,6 +26580,8 @@
   reviewed: '2026-10-09'
 
 - code: P01AC
+  short_description:
+    en: "Alternative Fuel Tank Temp Sensor Circuit Low"
   category: powertrain
   title:
     en: Alternative Fuel Tank Temperature Sensor Circuit Low
@@ -26326,6 +26640,8 @@
   reviewed: '2026-10-09'
 
 - code: P01AD
+  short_description:
+    en: "Alternative Fuel Tank Temp Sensor Circuit High"
   category: powertrain
   title:
     en: Alternative Fuel Tank Temperature Sensor Circuit High
@@ -26384,6 +26700,8 @@
   reviewed: '2026-10-09'
 
 - code: P01AE
+  short_description:
+    en: "Alternative Fuel Tank Temp Sensor Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Alternative Fuel Tank Temperature Sensor Circuit Intermittent/Erratic
@@ -26717,6 +27035,8 @@
   reviewed: '2026-10-09'
 
 - code: P01B4
+  short_description:
+    en: "Alternative Fuel Rail Temp Sensor Circuit"
   category: powertrain
   title:
     en: Alternative Fuel Rail Temperature Sensor Circuit
@@ -26772,6 +27092,8 @@
   reviewed: '2026-10-09'
 
 - code: P01B5
+  short_description:
+    en: "Alternative Fuel Rail Temp Sensor Performance"
   category: powertrain
   title:
     en: Alternative Fuel Rail Temperature Sensor Performance
@@ -26827,6 +27149,8 @@
   reviewed: '2026-10-09'
 
 - code: P01B6
+  short_description:
+    en: "Alternative Fuel Rail Temp Sensor Circuit Low"
   category: powertrain
   title:
     en: Alternative Fuel Rail Temperature Sensor Circuit Low
@@ -26887,6 +27211,8 @@
   reviewed: '2026-10-09'
 
 - code: P01B7
+  short_description:
+    en: "Alternative Fuel Rail Temp Sensor Circuit High"
   category: powertrain
   title:
     en: Alternative Fuel Rail Temperature Sensor Circuit High
@@ -26947,6 +27273,8 @@
   reviewed: '2026-10-09'
 
 - code: P01B8
+  short_description:
+    en: "Alternative Fuel Rail Temp Sensor Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Alternative Fuel Rail Temperature Sensor Circuit Intermittent/Erratic
@@ -27002,6 +27330,8 @@
   reviewed: '2026-10-09'
 
 - code: P01B9
+  short_description:
+    en: "Engine Oil Temp Sensor B Circuit"
   category: powertrain
   title:
     en: Engine Oil Temperature Sensor B Circuit
@@ -27055,6 +27385,8 @@
   reviewed: '2026-10-09'
 
 - code: P01BA
+  short_description:
+    en: "Engine Oil Temp Sensor B Range/Performance"
   category: powertrain
   title:
     en: Engine Oil Temperature Sensor B Range/Performance
@@ -27112,6 +27444,8 @@
   reviewed: '2026-10-09'
 
 - code: P01BB
+  short_description:
+    en: "Engine Oil Temp Sensor B Circuit Low"
   category: powertrain
   title:
     en: Engine Oil Temperature Sensor B Circuit Low
@@ -27170,6 +27504,8 @@
   reviewed: '2026-10-09'
 
 - code: P01BC
+  short_description:
+    en: "Engine Oil Temp Sensor B Circuit High"
   category: powertrain
   title:
     en: Engine Oil Temperature Sensor B Circuit High
@@ -27228,6 +27564,8 @@
   reviewed: '2026-10-09'
 
 - code: P01BD
+  short_description:
+    en: "Engine Oil Temp Sensor B Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Engine Oil Temperature Sensor B Circuit Intermittent/Erratic
@@ -29652,6 +29990,8 @@
   reviewed: '2026-10-09'
 
 - code: P01E3
+  short_description:
+    en: "Engine Coolant Temp Sensor 3 Circuit"
   category: powertrain
   title:
     en: Engine Coolant Temperature Sensor 3 Circuit
@@ -29710,6 +30050,8 @@
   reviewed: '2026-10-09'
 
 - code: P01E4
+  short_description:
+    en: "Engine Coolant Temp Sensor 3 Circuit Range/Performance"
   category: powertrain
   title:
     en: Engine Coolant Temperature Sensor 3 Circuit Range/Performance
@@ -29769,6 +30111,8 @@
   reviewed: '2026-10-09'
 
 - code: P01E5
+  short_description:
+    en: "Engine Coolant Temp Sensor 3 Circuit Low"
   category: powertrain
   title:
     en: Engine Coolant Temperature Sensor 3 Circuit Low
@@ -29827,6 +30171,8 @@
   reviewed: '2026-10-09'
 
 - code: P01E6
+  short_description:
+    en: "Engine Coolant Temp Sensor 3 Circuit High"
   category: powertrain
   title:
     en: Engine Coolant Temperature Sensor 3 Circuit High
@@ -29885,6 +30231,8 @@
   reviewed: '2026-10-09'
 
 - code: P01E7
+  short_description:
+    en: "Engine Coolant Temp Sensor 3 Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Engine Coolant Temperature Sensor 3 Circuit Intermittent/Erratic
@@ -30407,6 +30755,8 @@
   reviewed: '2026-10-09'
 
 - code: P01F0
+  short_description:
+    en: "Coolant Temp Relapsed Below Diagnostic Monitoring Temp"
   category: powertrain
   title:
     en: Coolant Temperature Relapsed Below Diagnostic Monitoring Temperature
@@ -30976,6 +31326,8 @@
   reviewed: '2026-10-10'
 
 - code: P01FA
+  short_description:
+    en: "Turbo Outlet Pressure Sensor B Circuit"
   category: powertrain
   title:
     en: Turbocharger Outlet Pressure Sensor B Circuit
@@ -31035,6 +31387,8 @@
   reviewed: '2026-10-10'
 
 - code: P01FB
+  short_description:
+    en: "Turbo Outlet Pressure Sensor B Range/Performance"
   category: powertrain
   title:
     en: Turbocharger Outlet Pressure Sensor B Range/Performance
@@ -31094,6 +31448,8 @@
   reviewed: '2026-10-10'
 
 - code: P01FC
+  short_description:
+    en: "Turbo Outlet Pressure Sensor B Circuit Low"
   category: powertrain
   title:
     en: Turbocharger Outlet Pressure Sensor B Circuit Low
@@ -31148,6 +31504,8 @@
   reviewed: '2026-10-10'
 
 - code: P01FD
+  short_description:
+    en: "Turbo Outlet Pressure Sensor B Circuit High"
   category: powertrain
   title:
     en: Turbocharger Outlet Pressure Sensor B Circuit High
@@ -31202,6 +31560,8 @@
   reviewed: '2026-10-10'
 
 - code: P01FE
+  short_description:
+    en: "Turbo Outlet Pressure Sensor B Intermittent/Erratic"
   category: powertrain
   title:
     en: Turbocharger Outlet Pressure Sensor B Intermittent/Erratic
@@ -31256,6 +31616,8 @@
   reviewed: '2026-10-10'
 
 - code: P01FF
+  short_description:
+    en: "Turbo Outlet Pressure Sensor A/B Correlation"
   category: powertrain
   title:
     en: Turbocharger Outlet Pressure Sensor A/B Correlation
@@ -32845,6 +33207,8 @@
   reviewed: '2026-10-10'
 
 - code: P0217
+  short_description:
+    en: "Engine Coolant Over Temp Condition"
   category: powertrain
   title:
     en: Engine Coolant Over Temperature Condition
@@ -32914,6 +33278,8 @@
   reviewed: '2026-10-10'
 
 - code: P0218
+  short_description:
+    en: "Transmission Fluid Temp Sensor A Over Temp Condition"
   category: powertrain
   title:
     en: Transmission Fluid Temperature Sensor A Over Temperature Condition
@@ -34652,6 +35018,8 @@
   reviewed: '2026-10-10'
 
 - code: P0234
+  short_description:
+    en: "Turbo/Supercharger A Overboost Condition"
   category: powertrain
   title:
     en: Turbocharger/Supercharger A Overboost Condition
@@ -34726,6 +35094,8 @@
   reviewed: '2026-10-10'
 
 - code: P0235
+  short_description:
+    en: "Turbo/Supercharger Boost Sensor A Circuit"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Sensor A Circuit
@@ -34786,6 +35156,8 @@
   reviewed: '2026-10-10'
 
 - code: P0236
+  short_description:
+    en: "Turbo/Supercharger Boost Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Sensor A Circuit Range/Performance
@@ -34852,6 +35224,8 @@
   reviewed: '2026-10-10'
 
 - code: P0237
+  short_description:
+    en: "Turbo/Supercharger Boost Sensor A Circuit Low"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Sensor A Circuit Low
@@ -34919,6 +35293,8 @@
   reviewed: '2026-10-10'
 
 - code: P0238
+  short_description:
+    en: "Turbo/Supercharger Boost Sensor A Circuit High"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Sensor A Circuit High
@@ -34985,6 +35361,8 @@
   reviewed: '2026-10-10'
 
 - code: P0239
+  short_description:
+    en: "Turbo/Supercharger Boost Sensor B Circuit"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Sensor B Circuit
@@ -35224,6 +35602,8 @@
   reviewed: '2026-10-10'
 
 - code: P023D
+  short_description:
+    en: "Manifold Absolute Pressure - Turbo/Supercharger Boost Sensor A Correlation"
   category: powertrain
   title:
     en: Manifold Absolute Pressure - Turbocharger/Supercharger Boost Sensor A Correlation
@@ -35284,6 +35664,8 @@
   reviewed: '2026-10-10'
 
 - code: P023E
+  short_description:
+    en: "Manifold Absolute Pressure - Turbo/Supercharger Boost Sensor B Correlation"
   category: powertrain
   title:
     en: Manifold Absolute Pressure - Turbocharger/Supercharger Boost Sensor B Correlation
@@ -35398,6 +35780,8 @@
   reviewed: '2026-10-10'
 
 - code: P0240
+  short_description:
+    en: "Turbo/Supercharger Boost Sensor B Circuit Range/Performance"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Sensor B Circuit Range/Performance
@@ -35458,6 +35842,8 @@
   reviewed: '2026-10-10'
 
 - code: P0241
+  short_description:
+    en: "Turbo/Supercharger Boost Sensor B Circuit Low"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Sensor B Circuit Low
@@ -35518,6 +35904,8 @@
   reviewed: '2026-10-10'
 
 - code: P0242
+  short_description:
+    en: "Turbo/Supercharger Boost Sensor B Circuit High"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Sensor B Circuit High
@@ -35578,6 +35966,8 @@
   reviewed: '2026-10-10'
 
 - code: P0243
+  short_description:
+    en: "Turbo/Supercharger Wastegate Actuator A"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Wastegate Actuator A
@@ -35646,6 +36036,8 @@
   reviewed: '2026-10-10'
 
 - code: P0244
+  short_description:
+    en: "Turbo/Supercharger Wastegate Actuator A Range/Performance"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Wastegate Actuator A Range/Performance
@@ -35715,6 +36107,8 @@
   reviewed: '2026-10-10'
 
 - code: P0245
+  short_description:
+    en: "Turbo/Supercharger Wastegate Actuator A Low"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Wastegate Actuator A Low
@@ -35777,6 +36171,8 @@
   reviewed: '2026-10-10'
 
 - code: P0246
+  short_description:
+    en: "Turbo/Supercharger Wastegate Actuator A High"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Wastegate Actuator A High
@@ -35839,6 +36235,8 @@
   reviewed: '2026-10-10'
 
 - code: P0247
+  short_description:
+    en: "Turbo/Supercharger Wastegate Actuator B"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Wastegate Actuator B
@@ -35901,6 +36299,8 @@
   reviewed: '2026-10-10'
 
 - code: P0248
+  short_description:
+    en: "Turbo/Supercharger Wastegate Actuator B Range/Performance"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Wastegate Actuator B Range/Performance
@@ -35963,6 +36363,8 @@
   reviewed: '2026-10-10'
 
 - code: P0249
+  short_description:
+    en: "Turbo/Supercharger Wastegate Actuator B Low"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Wastegate Actuator B Low
@@ -36377,6 +36779,8 @@
   reviewed: '2026-10-10'
 
 - code: P0250
+  short_description:
+    en: "Turbo/Supercharger Wastegate Actuator B High"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Wastegate Actuator B High
@@ -37231,6 +37635,8 @@
   reviewed: '2026-10-10'
 
 - code: P025E
+  short_description:
+    en: "Turbo/Supercharger Boost Sensor A Intermittent/Erratic"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Sensor A Intermittent/Erratic
@@ -37289,6 +37695,8 @@
   reviewed: '2026-10-10'
 
 - code: P025F
+  short_description:
+    en: "Turbo/Supercharger Boost Sensor B Intermittent/Erratic"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Sensor B Intermittent/Erratic
@@ -38009,6 +38417,8 @@
   reviewed: '2026-10-10'
 
 - code: P026A
+  short_description:
+    en: "Low Charge Air Cooler Efficiency"
   category: powertrain
   title:
     en: Charge Air Cooler Efficiency Below Threshold
@@ -40894,6 +41304,8 @@
   reviewed: '2026-10-10'
 
 - code: P0298
+  short_description:
+    en: "Engine Oil Over Temp"
   category: powertrain
   title:
     en: Engine Oil Over Temperature
@@ -40959,6 +41371,8 @@
   reviewed: '2026-10-10'
 
 - code: P0299
+  short_description:
+    en: "Low Boost — Turbo/Supercharger A"
   category: powertrain
   title:
     en: Turbocharger/Supercharger A Underboost Condition
@@ -43988,6 +44402,8 @@
   reviewed: '2026-10-10'
 
 - code: P02CA
+  short_description:
+    en: "Turbo/Supercharger B Overboost Condition"
   category: powertrain
   title:
     en: Turbocharger/Supercharger B Overboost Condition
@@ -44052,6 +44468,8 @@
   reviewed: '2026-10-10'
 
 - code: P02CB
+  short_description:
+    en: "Turbo/Supercharger B Underboost Condition"
   category: powertrain
   title:
     en: Turbocharger/Supercharger B Underboost Condition
@@ -62875,6 +63293,8 @@
   reviewed: '2026-10-11'
 
 - code: P0401
+  short_description:
+    en: "Insufficient EGR Flow (A)"
   category: powertrain
   title:
     en: EGR A Flow Insufficient Detected
@@ -63438,6 +63858,8 @@
   reviewed: '2026-10-11'
 
 - code: P040A
+  short_description:
+    en: "EGR Temp Sensor A Circuit"
   category: powertrain
   title:
     en: EGR Temperature Sensor A Circuit
@@ -63493,6 +63915,8 @@
   reviewed: '2026-10-11'
 
 - code: P040B
+  short_description:
+    en: "EGR Temp Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: EGR Temperature Sensor A Circuit Range/Performance
@@ -63553,6 +63977,8 @@
   reviewed: '2026-10-11'
 
 - code: P040C
+  short_description:
+    en: "EGR Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: EGR Temperature Sensor A Circuit Low
@@ -63614,6 +64040,8 @@
   reviewed: '2026-10-11'
 
 - code: P040D
+  short_description:
+    en: "EGR Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: EGR Temperature Sensor A Circuit High
@@ -63675,6 +64103,8 @@
   reviewed: '2026-10-11'
 
 - code: P040E
+  short_description:
+    en: "EGR Temp Sensor A Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: EGR Temperature Sensor A Circuit Intermittent/Erratic
@@ -63728,6 +64158,8 @@
   reviewed: '2026-10-11'
 
 - code: P040F
+  short_description:
+    en: "EGR Temp Sensor A/B Correlation"
   category: powertrain
   title:
     en: EGR Temperature Sensor A/B Correlation
@@ -64430,6 +64862,8 @@
   reviewed: '2026-10-11'
 
 - code: P041A
+  short_description:
+    en: "EGR Temp Sensor B Circuit"
   category: powertrain
   title:
     en: EGR Temperature Sensor B Circuit
@@ -64485,6 +64919,8 @@
   reviewed: '2026-10-11'
 
 - code: P041B
+  short_description:
+    en: "EGR Temp Sensor B Circuit Range/Performance"
   category: powertrain
   title:
     en: EGR Temperature Sensor B Circuit Range/Performance
@@ -64546,6 +64982,8 @@
   reviewed: '2026-10-11'
 
 - code: P041C
+  short_description:
+    en: "EGR Temp Sensor B Circuit Low"
   category: powertrain
   title:
     en: EGR Temperature Sensor B Circuit Low
@@ -64607,6 +65045,8 @@
   reviewed: '2026-10-11'
 
 - code: P041D
+  short_description:
+    en: "EGR Temp Sensor B Circuit High"
   category: powertrain
   title:
     en: EGR Temperature Sensor B Circuit High
@@ -64668,6 +65108,8 @@
   reviewed: '2026-10-11'
 
 - code: P041E
+  short_description:
+    en: "EGR Temp Sensor B Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: EGR Temperature Sensor B Circuit Intermittent/Erratic
@@ -64788,6 +65230,8 @@
   reviewed: '2026-10-11'
 
 - code: P0420
+  short_description:
+    en: "Low Catalyst System Efficiency Bank 1"
   category: powertrain
   title:
     en: Catalyst System Efficiency Below Threshold Bank 1
@@ -64856,6 +65300,8 @@
   reviewed: '2026-10-11'
 
 - code: P0421
+  short_description:
+    en: "Low Catalyst 1 Efficiency — Bank 1"
   category: powertrain
   title:
     en: Catalyst 1 Efficiency Below Threshold Bank 1
@@ -64918,6 +65364,8 @@
   reviewed: '2026-10-11'
 
 - code: P0422
+  short_description:
+    en: "Low Catalyst 2 Efficiency Bank 1"
   category: powertrain
   title:
     en: Catalyst 2 Efficiency Below Threshold Bank 1
@@ -64977,6 +65425,8 @@
   reviewed: '2026-10-11'
 
 - code: P0423
+  short_description:
+    en: "Low Heated Catalyst Efficiency Bank 1"
   category: powertrain
   title:
     en: Heated Catalyst Efficiency Below Threshold Bank 1
@@ -65037,6 +65487,8 @@
   reviewed: '2026-10-11'
 
 - code: P0424
+  short_description:
+    en: "Heated Catalyst Temp Below Threshold Bank 1"
   category: powertrain
   title:
     en: Heated Catalyst Temperature Below Threshold Bank 1
@@ -65097,6 +65549,8 @@
   reviewed: '2026-10-11'
 
 - code: P0425
+  short_description:
+    en: "Catalyst Temp Sensor Circuit Bank 1 Sensor 1"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit Bank 1 Sensor 1
@@ -65156,6 +65610,8 @@
   reviewed: '2026-10-11'
 
 - code: P0426
+  short_description:
+    en: "Catalyst Temp Sensor Circuit Range/Performance Bank 1 Sensor 1"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit Range/Performance Bank 1 Sensor 1
@@ -65221,6 +65677,8 @@
   reviewed: '2026-10-11'
 
 - code: P0427
+  short_description:
+    en: "Catalyst Temp Sensor Circuit Low Bank 1 Sensor 1"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit Low Bank 1 Sensor 1
@@ -65280,6 +65738,8 @@
   reviewed: '2026-10-11'
 
 - code: P0428
+  short_description:
+    en: "Catalyst Temp Sensor Circuit High Bank 1 Sensor 1"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit High Bank 1 Sensor 1
@@ -65399,6 +65859,8 @@
   reviewed: '2026-10-11'
 
 - code: P042A
+  short_description:
+    en: "Catalyst Temp Sensor Circuit Bank 1 Sensor 2"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit Bank 1 Sensor 2
@@ -65458,6 +65920,8 @@
   reviewed: '2026-10-11'
 
 - code: P042B
+  short_description:
+    en: "Catalyst Temp Sensor Circuit Range/Performance Bank 1 Sensor 2"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit Range/Performance Bank 1 Sensor 2
@@ -65522,6 +65986,8 @@
   reviewed: '2026-10-11'
 
 - code: P042C
+  short_description:
+    en: "Catalyst Temp Sensor Circuit Low Bank 1 Sensor 2"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit Low Bank 1 Sensor 2
@@ -65581,6 +66047,8 @@
   reviewed: '2026-10-11'
 
 - code: P042D
+  short_description:
+    en: "Catalyst Temp Sensor Circuit High Bank 1 Sensor 2"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit High Bank 1 Sensor 2
@@ -65765,6 +66233,8 @@
   reviewed: '2026-10-11'
 
 - code: P0430
+  short_description:
+    en: "Low Catalyst System Efficiency Bank 2"
   category: powertrain
   title:
     en: Catalyst System Efficiency Below Threshold Bank 2
@@ -65826,6 +66296,8 @@
   reviewed: '2026-10-11'
 
 - code: P0431
+  short_description:
+    en: "Low Catalyst 1 Efficiency Bank 2"
   category: powertrain
   title:
     en: Catalyst 1 Efficiency Below Threshold Bank 2
@@ -65886,6 +66358,8 @@
   reviewed: '2026-10-11'
 
 - code: P0432
+  short_description:
+    en: "Low Catalyst 2 Efficiency Bank 2"
   category: powertrain
   title:
     en: Catalyst 2 Efficiency Below Threshold Bank 2
@@ -65944,6 +66418,8 @@
   reviewed: '2026-10-11'
 
 - code: P0433
+  short_description:
+    en: "Low Heated Catalyst Efficiency Bank 2"
   category: powertrain
   title:
     en: Heated Catalyst Efficiency Below Threshold Bank 2
@@ -66003,6 +66479,8 @@
   reviewed: '2026-10-11'
 
 - code: P0434
+  short_description:
+    en: "Heated Catalyst Temp Below Threshold Bank 2"
   category: powertrain
   title:
     en: Heated Catalyst Temperature Below Threshold Bank 2
@@ -66063,6 +66541,8 @@
   reviewed: '2026-10-11'
 
 - code: P0435
+  short_description:
+    en: "Catalyst Temp Sensor Circuit Bank 2 Sensor 1"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit Bank 2 Sensor 1
@@ -66122,6 +66602,8 @@
   reviewed: '2026-10-11'
 
 - code: P0436
+  short_description:
+    en: "Catalyst Temp Sensor Circuit Range/Performance Bank 2 Sensor 1"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit Range/Performance Bank 2 Sensor 1
@@ -66186,6 +66668,8 @@
   reviewed: '2026-10-11'
 
 - code: P0437
+  short_description:
+    en: "Catalyst Temp Sensor Circuit Low Bank 2 Sensor 1"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit Low Bank 2 Sensor 1
@@ -66245,6 +66729,8 @@
   reviewed: '2026-10-11'
 
 - code: P0438
+  short_description:
+    en: "Catalyst Temp Sensor Circuit High Bank 2 Sensor 1"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit High Bank 2 Sensor 1
@@ -66364,6 +66850,8 @@
   reviewed: '2026-10-11'
 
 - code: P043A
+  short_description:
+    en: "Catalyst Temp Sensor Circuit Bank 2 Sensor 2"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit Bank 2 Sensor 2
@@ -66423,6 +66911,8 @@
   reviewed: '2026-10-11'
 
 - code: P043B
+  short_description:
+    en: "Catalyst Temp Sensor Circuit Range/Performance Bank 2 Sensor 2"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit Range/Performance Bank 2 Sensor 2
@@ -66487,6 +66977,8 @@
   reviewed: '2026-10-11'
 
 - code: P043C
+  short_description:
+    en: "Catalyst Temp Sensor Circuit Low Bank 2 Sensor 2"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit Low Bank 2 Sensor 2
@@ -66546,6 +67038,8 @@
   reviewed: '2026-10-11'
 
 - code: P043D
+  short_description:
+    en: "Catalyst Temp Sensor Circuit High Bank 2 Sensor 2"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor Circuit High Bank 2 Sensor 2
@@ -69260,6 +69754,8 @@
   reviewed: '2026-10-11'
 
 - code: P046A
+  short_description:
+    en: "Catalyst Temp Sensor 1/2 Correlation Bank 1"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor 1/2 Correlation Bank 1
@@ -69320,6 +69816,8 @@
   reviewed: '2026-10-11'
 
 - code: P046B
+  short_description:
+    en: "Catalyst Temp Sensor 1/2 Correlation Bank 2"
   category: powertrain
   title:
     en: Catalyst Temperature Sensor 1/2 Correlation Bank 2
@@ -72231,6 +72729,8 @@
   reviewed: '2026-10-11'
 
 - code: P049B
+  short_description:
+    en: "EGR B Flow Insufficient"
   category: powertrain
   title:
     en: EGR B Flow Insufficient Detected
@@ -75273,6 +75773,8 @@
   reviewed: '2026-10-11'
 
 - code: P04CE
+  short_description:
+    en: "EGR Temp Sensor C Circuit"
   category: powertrain
   title:
     en: EGR Temperature Sensor C Circuit
@@ -75332,6 +75834,8 @@
   reviewed: '2026-10-11'
 
 - code: P04CF
+  short_description:
+    en: "EGR Temp Sensor C Circuit Range/Performance"
   category: powertrain
   title:
     en: EGR Temperature Sensor C Circuit Range/Performance
@@ -75390,6 +75894,8 @@
   reviewed: '2026-10-11'
 
 - code: P04D0
+  short_description:
+    en: "EGR Temp Sensor C Circuit Low"
   category: powertrain
   title:
     en: EGR Temperature Sensor C Circuit Low
@@ -75449,6 +75955,8 @@
   reviewed: '2026-10-11'
 
 - code: P04D1
+  short_description:
+    en: "EGR Temp Sensor C Circuit High"
   category: powertrain
   title:
     en: EGR Temperature Sensor C Circuit High
@@ -75508,6 +76016,8 @@
   reviewed: '2026-10-11'
 
 - code: P04D2
+  short_description:
+    en: "EGR Temp Sensor C Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: EGR Temperature Sensor C Circuit Intermittent/Erratic
@@ -76163,6 +76673,8 @@
   reviewed: '2026-10-11'
 
 - code: P04DD
+  short_description:
+    en: "Cold Start EGR A Flow Insufficient"
   category: powertrain
   title:
     en: Cold Start EGR A Flow Insufficient Detected
@@ -76632,6 +77144,8 @@
   reviewed: '2026-10-11'
 
 - code: P04E5
+  short_description:
+    en: "EGR Temp Sensor D Circuit"
   category: powertrain
   title:
     en: EGR Temperature Sensor D Circuit
@@ -76685,6 +77199,8 @@
   reviewed: '2026-10-11'
 
 - code: P04E6
+  short_description:
+    en: "EGR Temp Sensor D Circuit Range/Performance"
   category: powertrain
   title:
     en: EGR Temperature Sensor D Circuit Range/Performance
@@ -76743,6 +77259,8 @@
   reviewed: '2026-10-11'
 
 - code: P04E7
+  short_description:
+    en: "EGR Temp Sensor D Circuit Low"
   category: powertrain
   title:
     en: EGR Temperature Sensor D Circuit Low
@@ -76801,6 +77319,8 @@
   reviewed: '2026-10-11'
 
 - code: P04E8
+  short_description:
+    en: "EGR Temp Sensor D Circuit High"
   category: powertrain
   title:
     en: EGR Temperature Sensor D Circuit High
@@ -76859,6 +77379,8 @@
   reviewed: '2026-10-11'
 
 - code: P04E9
+  short_description:
+    en: "EGR Temp Sensor D Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: EGR Temperature Sensor D Circuit Intermittent/Erratic
@@ -77877,6 +78399,8 @@
   reviewed: '2026-10-11'
 
 - code: P04FA
+  short_description:
+    en: "EGR A Control Temp Too High"
   category: powertrain
   title:
     en: EGR A Control Temperature Too High
@@ -78987,6 +79511,8 @@
   reviewed: '2026-10-11'
 
 - code: P050C
+  short_description:
+    en: "Cold Start Engine Coolant Temp Performance"
   category: powertrain
   title:
     en: Cold Start Engine Coolant Temperature Performance
@@ -79106,6 +79632,8 @@
   reviewed: '2026-10-11'
 
 - code: P050E
+  short_description:
+    en: "Cold Start Engine Exhaust Temp Too Low"
   category: powertrain
   title:
     en: Cold Start Engine Exhaust Temperature Too Low
@@ -79471,6 +79999,8 @@
   reviewed: '2026-10-11'
 
 - code: P0514
+  short_description:
+    en: "Battery Temp Sensor Circuit Range/Performance"
   category: powertrain
   title:
     en: Battery Temperature Sensor Circuit Range/Performance
@@ -79530,6 +80060,8 @@
   reviewed: '2026-10-11'
 
 - code: P0515
+  short_description:
+    en: "Battery Temp Sensor Circuit"
   category: powertrain
   title:
     en: Battery Temperature Sensor Circuit
@@ -79588,6 +80120,8 @@
   reviewed: '2026-10-11'
 
 - code: P0516
+  short_description:
+    en: "Battery Temp Sensor Circuit Low"
   category: powertrain
   title:
     en: Battery Temperature Sensor Circuit Low
@@ -79646,6 +80180,8 @@
   reviewed: '2026-10-11'
 
 - code: P0517
+  short_description:
+    en: "Battery Temp Sensor Circuit High"
   category: powertrain
   title:
     en: Battery Temperature Sensor Circuit High
@@ -81431,6 +81967,8 @@
   reviewed: '2026-10-11'
 
 - code: P0535
+  short_description:
+    en: "A/C Evaporator Temp Sensor Circuit"
   category: powertrain
   title:
     en: A/C Evaporator Temperature Sensor Circuit
@@ -81490,6 +82028,8 @@
   reviewed: '2026-10-11'
 
 - code: P0536
+  short_description:
+    en: "A/C Evaporator Temp Sensor Circuit Range/Performance"
   category: powertrain
   title:
     en: A/C Evaporator Temperature Sensor Circuit Range/Performance
@@ -81548,6 +82088,8 @@
   reviewed: '2026-10-11'
 
 - code: P0537
+  short_description:
+    en: "A/C Evaporator Temp Sensor Circuit Low"
   category: powertrain
   title:
     en: A/C Evaporator Temperature Sensor Circuit Low
@@ -81607,6 +82149,8 @@
   reviewed: '2026-10-11'
 
 - code: P0538
+  short_description:
+    en: "A/C Evaporator Temp Sensor Circuit High"
   category: powertrain
   title:
     en: A/C Evaporator Temperature Sensor Circuit High
@@ -81666,6 +82210,8 @@
   reviewed: '2026-10-11'
 
 - code: P0539
+  short_description:
+    en: "A/C Evaporator Temp Sensor Circuit Intermittent"
   category: powertrain
   title:
     en: A/C Evaporator Temperature Sensor Circuit Intermittent
@@ -82319,6 +82865,8 @@
   reviewed: '2026-10-11'
 
 - code: P0544
+  short_description:
+    en: "Exhaust Gas Temp Sensor Circuit Bank 1 Sensor 1"
   category: powertrain
   title:
     en: Exhaust Gas Temperature Sensor Circuit Bank 1 Sensor 1
@@ -82501,6 +83049,8 @@
   reviewed: '2026-10-11'
 
 - code: P0547
+  short_description:
+    en: "Exhaust Gas Temp Sensor Circuit Bank 2 Sensor 1"
   category: powertrain
   title:
     en: Exhaust Gas Temperature Sensor Circuit Bank 2 Sensor 1
@@ -84782,6 +85332,8 @@
   reviewed: '2026-10-11'
 
 - code: P056D
+  short_description:
+    en: "DEF Control Module System Voltage"
   category: powertrain
   title:
     en: Reductant Control Module System Voltage
@@ -84840,6 +85392,8 @@
   reviewed: '2026-10-11'
 
 - code: P056E
+  short_description:
+    en: "Cold Start Turbo/Supercharger Boost Control A Performance"
   category: powertrain
   title:
     en: Cold Start Turbocharger/Supercharger Boost Control A Performance
@@ -84898,6 +85452,8 @@
   reviewed: '2026-10-11'
 
 - code: P056F
+  short_description:
+    en: "Cold Start Turbo/Supercharger Boost Control B Performance"
   category: powertrain
   title:
     en: Cold Start Turbocharger/Supercharger Boost Control B Performance
@@ -86618,6 +87174,8 @@
   reviewed: '2026-10-11'
 
 - code: P058C
+  short_description:
+    en: "Battery Monitor Module Temp Monitoring Performance"
   category: powertrain
   title:
     en: Battery Monitor Module Temperature Monitoring Performance
@@ -86739,6 +87297,8 @@
   reviewed: '2026-10-11'
 
 - code: P058E
+  short_description:
+    en: "Battery Monitor Module Temp Too High"
   category: powertrain
   title:
     en: Battery Monitor Module Temperature Too High
@@ -86794,6 +87354,8 @@
   reviewed: '2026-10-11'
 
 - code: P058F
+  short_description:
+    en: "Battery Monitor Module Temp Too Low"
   category: powertrain
   title:
     en: Battery Monitor Module Temperature Too Low
@@ -89709,6 +90271,8 @@
   reviewed: '2026-10-11'
 
 - code: P05C0
+  short_description:
+    en: "Active Grille Air Shutter Module A Over Temp"
   category: powertrain
   title:
     en: Active Grille Air Shutter Module A Over Temperature
@@ -89762,6 +90326,8 @@
   reviewed: '2026-10-11'
 
 - code: P05C1
+  short_description:
+    en: "Active Grille Air Shutter Module B Over Temp"
   category: powertrain
   title:
     en: Active Grille Air Shutter Module B Over Temperature
@@ -92250,6 +92816,8 @@
   reviewed: '2026-10-12'
 
 - code: P05EB
+  short_description:
+    en: "Cold Start SCR NOx Catalyst Inlet Temp Too Low"
   category: powertrain
   title:
     en: Cold Start SCR NOx Catalyst Inlet Temperature Too Low
@@ -92373,6 +92941,8 @@
   reviewed: '2026-10-12'
 
 - code: P05ED
+  short_description:
+    en: "DEF Heater Control Module Supply Voltage"
   category: powertrain
   title:
     en: Reductant Heater Control Module Supply Voltage
@@ -92433,6 +93003,8 @@
   reviewed: '2026-10-12'
 
 - code: P05EE
+  short_description:
+    en: "DEF Pump Supply Voltage Circuit/Open"
   category: powertrain
   title:
     en: Reductant Pump Supply Voltage Circuit/Open
@@ -92493,6 +93065,8 @@
   reviewed: '2026-10-12'
 
 - code: P05EF
+  short_description:
+    en: "DEF Pump Supply Voltage Circuit Low"
   category: powertrain
   title:
     en: Reductant Pump Supply Voltage Circuit Low
@@ -92552,6 +93126,8 @@
   reviewed: '2026-10-12'
 
 - code: P05F0
+  short_description:
+    en: "DEF Pump Supply Voltage Circuit High"
   category: powertrain
   title:
     en: Reductant Pump Supply Voltage Circuit High
@@ -92611,6 +93187,8 @@
   reviewed: '2026-10-12'
 
 - code: P05F1
+  short_description:
+    en: "DEF Pump Supply Voltage Circuit Stuck On"
   category: powertrain
   title:
     en: Reductant Pump Supply Voltage Circuit Stuck On
@@ -92673,6 +93251,8 @@
   reviewed: '2026-10-12'
 
 - code: P05F2
+  short_description:
+    en: "DEF Pump Supply Voltage Circuit Stuck Off"
   category: powertrain
   title:
     en: Reductant Pump Supply Voltage Circuit Stuck Off
@@ -93031,6 +93611,8 @@
   reviewed: '2026-10-12'
 
 - code: P05F8
+  short_description:
+    en: "DEF Heater Control Module Performance"
   category: powertrain
   title:
     en: Reductant Heater Control Module Performance
@@ -93315,6 +93897,8 @@
   reviewed: '2026-10-12'
 
 - code: P05FD
+  short_description:
+    en: "Turbo/Supercharger Boost Control A Temp Too High"
   category: powertrain
   title:
     en: Turbocharger/Supercharger Boost Control A Temperature Too High
@@ -94467,6 +95051,8 @@
   reviewed: '2026-10-12'
 
 - code: P060F
+  short_description:
+    en: "Internal Control Module Coolant Temp Performance"
   category: powertrain
   title:
     en: Internal Control Module Coolant Temperature Performance
@@ -96780,6 +97366,8 @@
   reviewed: '2026-10-12'
 
 - code: P0634
+  short_description:
+    en: "Control Module Internal Temp A Too High"
   category: powertrain
   title:
     en: Control Module Internal Temperature A Too High
@@ -97462,6 +98050,8 @@
   reviewed: '2026-10-12'
 
 - code: P063F
+  short_description:
+    en: "Auto Configuration Engine Coolant Temp Input Not Present"
   category: powertrain
   title:
     en: Auto Configuration Engine Coolant Temperature Input Not Present
@@ -99306,6 +99896,8 @@
   reviewed: '2026-10-12'
 
 - code: P065D
+  short_description:
+    en: "DEF System Malfunction Lamp Control Circuit"
   category: powertrain
   title:
     en: Reductant System Malfunction Lamp Control Circuit
@@ -99849,6 +100441,8 @@
   reviewed: '2026-10-12'
 
 - code: P0666
+  short_description:
+    en: "Control Module Internal Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Control Module Internal Temperature Sensor A Circuit
@@ -99901,6 +100495,8 @@
   reviewed: '2026-10-12'
 
 - code: P0667
+  short_description:
+    en: "Control Module Internal Temp Sensor A Range/Performance"
   category: powertrain
   title:
     en: Control Module Internal Temperature Sensor A Range/Performance
@@ -99954,6 +100550,8 @@
   reviewed: '2026-10-12'
 
 - code: P0668
+  short_description:
+    en: "Control Module Internal Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Control Module Internal Temperature Sensor A Circuit Low
@@ -100007,6 +100605,8 @@
   reviewed: '2026-10-12'
 
 - code: P0669
+  short_description:
+    en: "Control Module Internal Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Control Module Internal Temperature Sensor A Circuit High
@@ -103324,6 +103924,8 @@
   reviewed: '2026-10-12'
 
 - code: P069E
+  short_description:
+    en: "Fuel Pump Control Module Requested Check Engine Light"
   category: powertrain
   title:
     en: Fuel Pump Control Module Requested MIL Illumination
@@ -104049,6 +104651,8 @@
   reviewed: '2026-10-12'
 
 - code: P06AA
+  short_description:
+    en: "Control Module Internal Temp B Too High"
   category: powertrain
   title:
     en: Control Module Internal Temperature B Too High
@@ -104107,6 +104711,8 @@
   reviewed: '2026-10-12'
 
 - code: P06AB
+  short_description:
+    en: "Control Module Internal Temp Sensor B Circuit"
   category: powertrain
   title:
     en: Control Module Internal Temperature Sensor B Circuit
@@ -104160,6 +104766,8 @@
   reviewed: '2026-10-12'
 
 - code: P06AC
+  short_description:
+    en: "Control Module Internal Temp Sensor B Range/Performance"
   category: powertrain
   title:
     en: Control Module Internal Temperature Sensor B Range/Performance
@@ -104213,6 +104821,8 @@
   reviewed: '2026-10-12'
 
 - code: P06AD
+  short_description:
+    en: "Control Module Internal Temp Sensor B Circuit Low"
   category: powertrain
   title:
     en: Control Module Internal Temperature Sensor B Circuit Low
@@ -104266,6 +104876,8 @@
   reviewed: '2026-10-12'
 
 - code: P06AE
+  short_description:
+    en: "Control Module Internal Temp Sensor B Circuit High"
   category: powertrain
   title:
     en: Control Module Internal Temperature Sensor B Circuit High
@@ -108090,6 +108702,8 @@
   reviewed: '2026-10-12'
 
 - code: P06EC
+  short_description:
+    en: "Fuel Injector Control Module Requested Check Engine Light"
   category: powertrain
   title:
     en: Fuel Injector Control Module Requested MIL Illumination
@@ -108325,6 +108939,8 @@
   reviewed: '2026-10-12'
 
 - code: P06F0
+  short_description:
+    en: "DEF Control Module Internal Temp Sensor Circuit"
   category: powertrain
   title:
     en: Reductant Control Module Internal Temperature Sensor Circuit
@@ -108386,6 +109002,8 @@
   reviewed: '2026-10-12'
 
 - code: P06F1
+  short_description:
+    en: "DEF Control Module Internal Temp Sensor Range/Performance"
   category: powertrain
   title:
     en: Reductant Control Module Internal Temperature Sensor Range/Performance
@@ -108447,6 +109065,8 @@
   reviewed: '2026-10-12'
 
 - code: P06F2
+  short_description:
+    en: "DEF Control Module Internal Temp Sensor Circuit Low"
   category: powertrain
   title:
     en: Reductant Control Module Internal Temperature Sensor Circuit Low
@@ -108508,6 +109128,8 @@
   reviewed: '2026-10-12'
 
 - code: P06F3
+  short_description:
+    en: "DEF Control Module Internal Temp Sensor Circuit High"
   category: powertrain
   title:
     en: Reductant Control Module Internal Temperature Sensor Circuit High
@@ -110202,6 +110824,8 @@
   reviewed: '2026-10-12'
 
 - code: P0710
+  short_description:
+    en: "Transmission Fluid Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Transmission Fluid Temperature Sensor A Circuit
@@ -110264,6 +110888,8 @@
   reviewed: '2026-10-12'
 
 - code: P0711
+  short_description:
+    en: "Transmission Fluid Temp Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Transmission Fluid Temperature Sensor A Circuit Range/Performance
@@ -110332,6 +110958,8 @@
   reviewed: '2026-10-12'
 
 - code: P0712
+  short_description:
+    en: "Transmission Fluid Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Transmission Fluid Temperature Sensor A Circuit Low
@@ -110395,6 +111023,8 @@
   reviewed: '2026-10-12'
 
 - code: P0713
+  short_description:
+    en: "Transmission Fluid Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Transmission Fluid Temperature Sensor A Circuit High
@@ -110457,6 +111087,8 @@
   reviewed: '2026-10-12'
 
 - code: P0714
+  short_description:
+    en: "Transmission Fluid Temp Sensor A Circuit Intermittent"
   category: powertrain
   title:
     en: Transmission Fluid Temperature Sensor A Circuit Intermittent
@@ -116945,6 +117577,8 @@
   reviewed: '2026-10-12'
 
 - code: P077E
+  short_description:
+    en: "Transmission Fluid Temp Measurement System Multiple Sensor Correlation"
   category: powertrain
   title:
     en: Transmission Fluid Temperature Measurement System Multiple Sensor Correlation
@@ -141056,6 +141690,8 @@
   reviewed: '2026-10-13'
 
 - code: P0937
+  short_description:
+    en: "Hydraulic Oil Temp Sensor Circuit"
   category: powertrain
   title:
     en: Hydraulic Oil Temperature Sensor Circuit
@@ -141107,6 +141743,8 @@
   reviewed: '2026-10-13'
 
 - code: P0938
+  short_description:
+    en: "Hydraulic Oil Temp Sensor Range/Performance"
   category: powertrain
   title:
     en: Hydraulic Oil Temperature Sensor Range/Performance
@@ -141158,6 +141796,8 @@
   reviewed: '2026-10-13'
 
 - code: P0939
+  short_description:
+    en: "Hydraulic Oil Temp Sensor Circuit Low"
   category: powertrain
   title:
     en: Hydraulic Oil Temperature Sensor Circuit Low
@@ -141437,6 +142077,8 @@
   reviewed: '2026-10-13'
 
 - code: P0940
+  short_description:
+    en: "Hydraulic Oil Temp Sensor Circuit High"
   category: powertrain
   title:
     en: Hydraulic Oil Temperature Sensor Circuit High
@@ -141488,6 +142130,8 @@
   reviewed: '2026-10-13'
 
 - code: P0941
+  short_description:
+    en: "Hydraulic Oil Temp Sensor Circuit Intermittent"
   category: powertrain
   title:
     en: Hydraulic Oil Temperature Sensor Circuit Intermittent
@@ -142151,6 +142795,8 @@
   reviewed: '2026-10-13'
 
 - code: P094D
+  short_description:
+    en: "Hydraulic Pump Over Temp"
   category: powertrain
   title:
     en: Hydraulic Pump Over Temperature
@@ -146609,6 +147255,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A00
+  short_description:
+    en: "Motor Electronics Coolant Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Motor Electronics Coolant Temperature Sensor A Circuit
@@ -146668,6 +147316,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A01
+  short_description:
+    en: "Motor Electronics Coolant Temp Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Motor Electronics Coolant Temperature Sensor A Circuit Range/Performance
@@ -146727,6 +147377,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A02
+  short_description:
+    en: "Motor Electronics Coolant Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Motor Electronics Coolant Temperature Sensor A Circuit Low
@@ -146780,6 +147432,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A03
+  short_description:
+    en: "Motor Electronics Coolant Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Motor Electronics Coolant Temperature Sensor A Circuit High
@@ -146838,6 +147492,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A04
+  short_description:
+    en: "Motor Electronics Coolant Temp Sensor A Circuit Intermittent"
   category: powertrain
   title:
     en: Motor Electronics Coolant Temperature Sensor A Circuit Intermittent
@@ -148951,6 +149607,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A2A
+  short_description:
+    en: "Drive Motor A Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Drive Motor A Temperature Sensor A Circuit
@@ -149010,6 +149668,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A2B
+  short_description:
+    en: "Drive Motor A Temp Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Drive Motor A Temperature Sensor A Circuit Range/Performance
@@ -149070,6 +149730,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A2C
+  short_description:
+    en: "Drive Motor A Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Drive Motor A Temperature Sensor A Circuit Low
@@ -149128,6 +149790,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A2D
+  short_description:
+    en: "Drive Motor A Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Drive Motor A Temperature Sensor A Circuit High
@@ -149186,6 +149850,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A2E
+  short_description:
+    en: "Drive Motor A Temp Sensor A Circuit Intermittent"
   category: powertrain
   title:
     en: Drive Motor A Temperature Sensor A Circuit Intermittent
@@ -149239,6 +149905,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A2F
+  short_description:
+    en: "Drive Motor A Over Temp"
   category: powertrain
   title:
     en: Drive Motor A Over Temperature
@@ -149294,6 +149962,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A30
+  short_description:
+    en: "Drive Motor B Temp Sensor Circuit"
   category: powertrain
   title:
     en: Drive Motor B Temperature Sensor Circuit
@@ -149353,6 +150023,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A31
+  short_description:
+    en: "Drive Motor B Temp Sensor Circuit Range/Performance"
   category: powertrain
   title:
     en: Drive Motor B Temperature Sensor Circuit Range/Performance
@@ -149413,6 +150085,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A32
+  short_description:
+    en: "Drive Motor B Temp Sensor Circuit Low"
   category: powertrain
   title:
     en: Drive Motor B Temperature Sensor Circuit Low
@@ -149472,6 +150146,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A33
+  short_description:
+    en: "Drive Motor B Temp Sensor Circuit High"
   category: powertrain
   title:
     en: Drive Motor B Temperature Sensor Circuit High
@@ -149531,6 +150207,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A34
+  short_description:
+    en: "Drive Motor B Temp Sensor Circuit Intermittent"
   category: powertrain
   title:
     en: Drive Motor B Temperature Sensor Circuit Intermittent
@@ -149585,6 +150263,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A35
+  short_description:
+    en: "Drive Motor B Over Temp"
   category: powertrain
   title:
     en: Drive Motor B Over Temperature
@@ -149643,6 +150323,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A36
+  short_description:
+    en: "Generator Temp Sensor Circuit"
   category: powertrain
   title:
     en: Generator Temperature Sensor Circuit
@@ -149701,6 +150383,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A37
+  short_description:
+    en: "Generator Temp Sensor Circuit Range/Performance"
   category: powertrain
   title:
     en: Generator Temperature Sensor Circuit Range/Performance
@@ -149759,6 +150443,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A38
+  short_description:
+    en: "Generator Temp Sensor Circuit Low"
   category: powertrain
   title:
     en: Generator Temperature Sensor Circuit Low
@@ -149818,6 +150504,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A39
+  short_description:
+    en: "Generator Temp Sensor Circuit High"
   category: powertrain
   title:
     en: Generator Temperature Sensor Circuit High
@@ -149877,6 +150565,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A3A
+  short_description:
+    en: "Generator Temp Sensor Circuit Intermittent"
   category: powertrain
   title:
     en: Generator Temperature Sensor Circuit Intermittent
@@ -149930,6 +150620,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A3B
+  short_description:
+    en: "Generator A Over Temp"
   category: powertrain
   title:
     en: Generator A Over Temperature
@@ -149988,6 +150680,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A3C
+  short_description:
+    en: "Drive Motor A Inverter Over Temp"
   category: powertrain
   title:
     en: Drive Motor A Inverter Over Temperature
@@ -150048,6 +150742,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A3D
+  short_description:
+    en: "Drive Motor B Inverter Over Temp"
   category: powertrain
   title:
     en: Drive Motor B Inverter Over Temperature
@@ -150105,6 +150801,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A3E
+  short_description:
+    en: "Generator Inverter Over Temp"
   category: powertrain
   title:
     en: Generator Inverter Over Temperature
@@ -153446,6 +154144,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A7B
+  short_description:
+    en: "Battery Energy Control Module Requested Check Engine Light"
   category: powertrain
   title:
     en: Battery Energy Control Module Requested MIL Illumination
@@ -153497,6 +154197,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A7C
+  short_description:
+    en: "Motor Electronics Over Temp"
   category: powertrain
   title:
     en: Motor Electronics Over Temperature
@@ -153614,6 +154316,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A7E
+  short_description:
+    en: "Hybrid/EV Battery Pack Over Temp"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Over Temperature
@@ -155199,6 +155903,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A9B
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor A Circuit
@@ -155253,6 +155959,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A9C
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor A Circuit Range/Performance
@@ -155312,6 +156020,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A9D
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor A Circuit Low
@@ -155371,6 +156081,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A9E
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor A Circuit High
@@ -155430,6 +156142,8 @@
   reviewed: '2026-10-14'
 
 - code: P0A9F
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor A Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor A Circuit Intermittent/Erratic
@@ -156150,6 +156864,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AAC
+  short_description:
+    en: "Hybrid/EV Battery Pack Air Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Air Temperature Sensor A Circuit
@@ -156204,6 +156920,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AAD
+  short_description:
+    en: "Hybrid/EV Battery Pack Air Temp Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Air Temperature Sensor A Circuit Range/Performance
@@ -156256,6 +156974,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AAE
+  short_description:
+    en: "Hybrid/EV Battery Pack Air Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Air Temperature Sensor A Circuit Low
@@ -156310,6 +157030,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AAF
+  short_description:
+    en: "Hybrid/EV Battery Pack Air Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Air Temperature Sensor A Circuit High
@@ -156369,6 +157091,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AB0
+  short_description:
+    en: "Hybrid/EV Battery Pack Air Temp Sensor A Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Air Temperature Sensor A Circuit Intermittent/Erratic
@@ -156422,6 +157146,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AB1
+  short_description:
+    en: "Hybrid/EV Battery Pack Air Temp Sensor B Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Air Temperature Sensor B Circuit
@@ -156475,6 +157201,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AB2
+  short_description:
+    en: "Hybrid/EV Battery Pack Air Temp Sensor B Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Air Temperature Sensor B Circuit Range/Performance
@@ -156533,6 +157261,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AB3
+  short_description:
+    en: "Hybrid/EV Battery Pack Air Temp Sensor B Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Air Temperature Sensor B Circuit Low
@@ -156586,6 +157316,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AB4
+  short_description:
+    en: "Hybrid/EV Battery Pack Air Temp Sensor B Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Air Temperature Sensor B Circuit High
@@ -156639,6 +157371,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AB5
+  short_description:
+    en: "Hybrid/EV Battery Pack Air Temp Sensor B Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Air Temperature Sensor B Circuit Intermittent/Erratic
@@ -157442,6 +158176,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AC4
+  short_description:
+    en: "Hybrid/EV Powertrain Control Module Requested Check Engine Light"
   category: powertrain
   title:
     en: Hybrid/EV Powertrain Control Module Requested MIL Illumination
@@ -157488,6 +158224,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AC5
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor B Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor B Circuit
@@ -157542,6 +158280,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AC6
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor B Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor B Circuit Range/Performance
@@ -157603,6 +158343,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AC7
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor B Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor B Circuit Low
@@ -157663,6 +158405,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AC8
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor B Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor B Circuit High
@@ -157723,6 +158467,8 @@
   reviewed: '2026-10-14'
 
 - code: P0AC9
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor B Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor B Circuit Intermittent/Erratic
@@ -157776,6 +158522,8 @@
   reviewed: '2026-10-14'
 
 - code: P0ACA
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor C Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor C Circuit
@@ -157830,6 +158578,8 @@
   reviewed: '2026-10-14'
 
 - code: P0ACB
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor C Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor C Circuit Range/Performance
@@ -157891,6 +158641,8 @@
   reviewed: '2026-10-14'
 
 - code: P0ACC
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor C Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor C Circuit Low
@@ -157951,6 +158703,8 @@
   reviewed: '2026-10-14'
 
 - code: P0ACD
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor C Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor C Circuit High
@@ -158006,6 +158760,8 @@
   reviewed: '2026-10-14'
 
 - code: P0ACE
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor C Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor C Circuit Intermittent/Erratic
@@ -159503,6 +160259,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AE8
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor D Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor D Circuit
@@ -159557,6 +160315,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AE9
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor D Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor D Circuit Range/Performance
@@ -159619,6 +160379,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AEA
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor D Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor D Circuit Low
@@ -159680,6 +160442,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AEB
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor D Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor D Circuit High
@@ -159736,6 +160500,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AEC
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor D Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor D Circuit Intermittent/Erratic
@@ -159789,6 +160555,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AED
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor A Circuit
@@ -159842,6 +160610,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AEE
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor A Circuit Range/Performance
@@ -159905,6 +160675,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AEF
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor A Circuit Low
@@ -159962,6 +160734,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AF0
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor A Circuit High
@@ -160018,6 +160792,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AF1
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor A Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor A Circuit Intermittent/Erratic
@@ -160071,6 +160847,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AF2
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor B Circuit"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor B Circuit
@@ -160124,6 +160902,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AF3
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor B Circuit Range/Performance"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor B Circuit Range/Performance
@@ -160179,6 +160959,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AF4
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor B Circuit Low"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor B Circuit Low
@@ -160234,6 +161016,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AF5
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor B Circuit High"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor B Circuit High
@@ -160288,6 +161072,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AF6
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor B Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor B Circuit Intermittent/Erratic
@@ -160341,6 +161127,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AF7
+  short_description:
+    en: "14 Volt Power Module Internal Temp Too High"
   category: powertrain
   title:
     en: 14 Volt Power Module Internal Temperature Too High
@@ -160682,6 +161470,8 @@
   reviewed: '2026-10-16'
 
 - code: P0AFD
+  short_description:
+    en: "Hybrid/EV Battery Pack Temp Too Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Temperature Too Low
@@ -171314,6 +172104,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BC2
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor E Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor E Circuit
@@ -171369,6 +172161,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BC3
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor E Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor E Circuit Range/Performance
@@ -171424,6 +172218,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BC4
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor E Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor E Circuit Low
@@ -171480,6 +172276,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BC5
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor E Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor E Circuit High
@@ -171536,6 +172334,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BC6
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor E Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor E Circuit Intermittent/Erratic
@@ -171857,6 +172657,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BCC
+  short_description:
+    en: "Generator Inverter Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor A Circuit
@@ -171910,6 +172712,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BCD
+  short_description:
+    en: "Generator Inverter Temp Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor A Circuit Range/Performance
@@ -171965,6 +172769,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BCE
+  short_description:
+    en: "Generator Inverter Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor A Circuit Low
@@ -172018,6 +172824,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BCF
+  short_description:
+    en: "Generator Inverter Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor A Circuit High
@@ -172072,6 +172880,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BD0
+  short_description:
+    en: "Generator Inverter Temp Sensor A Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor A Circuit Intermittent/Erratic
@@ -172125,6 +172935,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BD1
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor C Circuit"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor C Circuit
@@ -172179,6 +172991,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BD2
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor C Circuit Range/Performance"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor C Circuit Range/Performance
@@ -172242,6 +173056,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BD3
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor C Circuit Low"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor C Circuit Low
@@ -172298,6 +173114,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BD4
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor C Circuit High"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor C Circuit High
@@ -172354,6 +173172,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BD5
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor C Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor C Circuit Intermittent/Erratic
@@ -172408,6 +173228,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BD6
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor D Circuit"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor D Circuit
@@ -172462,6 +173284,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BD7
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor D Circuit Range/Performance"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor D Circuit Range/Performance
@@ -172518,6 +173342,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BD8
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor D Circuit Low"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor D Circuit Low
@@ -172574,6 +173400,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BD9
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor D Circuit High"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor D Circuit High
@@ -172629,6 +173457,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BDA
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor D Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor D Circuit Intermittent/Erratic
@@ -172683,6 +173513,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BDB
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor E Circuit"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor E Circuit
@@ -172737,6 +173569,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BDC
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor E Circuit Range/Performance"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor E Circuit Range/Performance
@@ -172791,6 +173625,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BDD
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor E Circuit Low"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor E Circuit Low
@@ -172847,6 +173683,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BDE
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor E Circuit High"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor E Circuit High
@@ -172901,6 +173739,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BDF
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor E Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor E Circuit Intermittent/Erratic
@@ -172953,6 +173793,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BE0
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor F Circuit"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor F Circuit
@@ -173007,6 +173849,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BE1
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor F Circuit Range/Performance"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor F Circuit Range/Performance
@@ -173061,6 +173905,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BE2
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor F Circuit Low"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor F Circuit Low
@@ -173117,6 +173963,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BE3
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor F Circuit High"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor F Circuit High
@@ -173171,6 +174019,8 @@
   reviewed: '2026-10-17'
 
 - code: P0BE4
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor F Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor F Circuit Intermittent/Erratic
@@ -175628,6 +176478,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C11
+  short_description:
+    en: "Drive Motor A Inverter Phase U Over Temp"
   category: powertrain
   title:
     en: Drive Motor A Inverter Phase U Over Temperature
@@ -175687,6 +176539,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C12
+  short_description:
+    en: "Drive Motor A Inverter Phase V Over Temp"
   category: powertrain
   title:
     en: Drive Motor A Inverter Phase V Over Temperature
@@ -175745,6 +176599,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C13
+  short_description:
+    en: "Drive Motor A Inverter Phase W Over Temp"
   category: powertrain
   title:
     en: Drive Motor A Inverter Phase W Over Temperature
@@ -175798,6 +176654,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C14
+  short_description:
+    en: "Drive Motor B Inverter Phase U Over Temp"
   category: powertrain
   title:
     en: Drive Motor B Inverter Phase U Over Temperature
@@ -175857,6 +176715,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C15
+  short_description:
+    en: "Drive Motor B Inverter Phase V Over Temp"
   category: powertrain
   title:
     en: Drive Motor B Inverter Phase V Over Temperature
@@ -175915,6 +176775,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C16
+  short_description:
+    en: "Drive Motor B Inverter Phase W Over Temp"
   category: powertrain
   title:
     en: Drive Motor B Inverter Phase W Over Temperature
@@ -177477,6 +178339,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C33
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor F Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor F Circuit
@@ -177531,6 +178395,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C34
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor F Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor F Circuit Range/Performance
@@ -177586,6 +178452,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C35
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor F Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor F Circuit Low
@@ -177641,6 +178509,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C36
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor F Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor F Circuit High
@@ -177696,6 +178566,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C37
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor F Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor F Circuit Intermittent/Erratic
@@ -177750,6 +178622,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C38
+  short_description:
+    en: "DC/DC Converter Temp Sensor A Circuit"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor A Circuit
@@ -177804,6 +178678,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C39
+  short_description:
+    en: "DC/DC Converter Temp Sensor A Range/Performance"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor A Range/Performance
@@ -177855,6 +178731,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C3A
+  short_description:
+    en: "DC/DC Converter Temp Sensor A Low"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor A Low
@@ -177909,6 +178787,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C3B
+  short_description:
+    en: "DC/DC Converter Temp Sensor A High"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor A High
@@ -177962,6 +178842,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C3C
+  short_description:
+    en: "DC/DC Converter Temp Sensor A Intermittent/Erratic"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor A Intermittent/Erratic
@@ -178013,6 +178895,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C3D
+  short_description:
+    en: "DC/DC Converter Temp Sensor B Circuit"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor B Circuit
@@ -178065,6 +178949,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C3E
+  short_description:
+    en: "DC/DC Converter Temp Sensor B Range/Performance"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor B Range/Performance
@@ -178116,6 +179002,8 @@
   reviewed: '2026-10-17'
 
 - code: P0C3F
+  short_description:
+    en: "DC/DC Converter Temp Sensor B Low"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor B Low
@@ -178170,6 +179058,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C40
+  short_description:
+    en: "DC/DC Converter Temp Sensor B High"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor B High
@@ -178223,6 +179113,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C41
+  short_description:
+    en: "DC/DC Converter Temp Sensor B Intermittent/Erratic"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor B Intermittent/Erratic
@@ -178274,6 +179166,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C42
+  short_description:
+    en: "Hybrid/EV Battery Pack Coolant Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Coolant Temperature Sensor A Circuit
@@ -178328,6 +179222,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C43
+  short_description:
+    en: "Hybrid/EV Battery Pack Coolant Temp Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Coolant Temperature Sensor A Circuit Range/Performance
@@ -178381,6 +179277,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C44
+  short_description:
+    en: "Hybrid/EV Battery Pack Coolant Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Coolant Temperature Sensor A Circuit Low
@@ -178435,6 +179333,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C45
+  short_description:
+    en: "Hybrid/EV Battery Pack Coolant Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Coolant Temperature Sensor A Circuit High
@@ -178489,6 +179389,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C46
+  short_description:
+    en: "Hybrid/EV Battery Pack Coolant Temp Sensor A Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Coolant Temperature Sensor A Circuit Intermittent/Erratic
@@ -180737,6 +181639,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C6E
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor A/B Correlation"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor A/B Correlation
@@ -180797,6 +181701,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C6F
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor B/C Correlation"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor B/C Correlation
@@ -180856,6 +181762,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C70
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor C/D Correlation"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor C/D Correlation
@@ -180915,6 +181823,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C71
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor D/E Correlation"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor D/E Correlation
@@ -180975,6 +181885,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C72
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor E/F Correlation"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor E/F Correlation
@@ -181561,6 +182473,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C7C
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor G Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor G Circuit
@@ -181615,6 +182529,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C7D
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor G Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor G Circuit Range/Performance
@@ -181672,6 +182588,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C7E
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor G Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor G Circuit Low
@@ -181726,6 +182644,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C7F
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor G Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor G Circuit High
@@ -181781,6 +182701,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C80
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor G Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor G Circuit Intermittent/Erratic
@@ -181835,6 +182757,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C81
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor H Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor H Circuit
@@ -181889,6 +182813,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C82
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor H Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor H Circuit Range/Performance
@@ -181947,6 +182873,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C83
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor H Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor H Circuit Low
@@ -182001,6 +182929,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C84
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor H Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor H Circuit High
@@ -182054,6 +182984,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C85
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor H Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor H Circuit Intermittent/Erratic
@@ -182106,6 +183038,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C86
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor F/G Correlation"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor F/G Correlation
@@ -182165,6 +183099,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C87
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor G/H Correlation"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor G/H Correlation
@@ -182223,6 +183159,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C88
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor I Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor I Circuit
@@ -182277,6 +183215,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C89
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor I Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor I Circuit Range/Performance
@@ -182335,6 +183275,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C8A
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor I Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor I Circuit Low
@@ -182390,6 +183332,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C8B
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor I Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor I Circuit High
@@ -182444,6 +183388,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C8C
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor I Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor I Circuit Intermittent/Erratic
@@ -182498,6 +183444,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C8D
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor J Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor J Circuit
@@ -182550,6 +183498,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C8E
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor J Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor J Circuit Range/Performance
@@ -182602,6 +183552,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C8F
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor J Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor J Circuit Low
@@ -182656,6 +183608,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C90
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor J Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor J Circuit High
@@ -182710,6 +183664,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C91
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor J Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor J Circuit Intermittent/Erratic
@@ -182761,6 +183717,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C92
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor K Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor K Circuit
@@ -182813,6 +183771,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C93
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor K Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor K Circuit Range/Performance
@@ -182865,6 +183825,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C94
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor K Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor K Circuit Low
@@ -182917,6 +183879,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C95
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor K Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor K Circuit High
@@ -182969,6 +183933,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C96
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor K Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor K Circuit Intermittent/Erratic
@@ -183020,6 +183986,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C97
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor L Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor L Circuit
@@ -183072,6 +184040,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C98
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor L Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor L Circuit Range/Performance
@@ -183123,6 +184093,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C99
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor L Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor L Circuit Low
@@ -183174,6 +184146,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C9A
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor L Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor L Circuit High
@@ -183225,6 +184199,8 @@
   reviewed: '2026-11-02'
 
 - code: P0C9B
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor L Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor L Circuit Intermittent/Erratic
@@ -183531,6 +184507,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CA1
+  short_description:
+    en: "Drive Motor Control Module Requested Check Engine Light"
   category: powertrain
   title:
     en: Drive Motor Control Module Requested MIL Illumination
@@ -183900,6 +184878,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CA8
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor M Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor M Circuit
@@ -183952,6 +184932,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CA9
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor M Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor M Circuit Range/Performance
@@ -184004,6 +184986,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CAA
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor M Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor M Circuit Low
@@ -184056,6 +185040,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CAB
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor M Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor M Circuit High
@@ -184108,6 +185094,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CAC
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor M Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor M Circuit Intermittent/Erratic
@@ -184159,6 +185147,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CAD
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor N Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor N Circuit
@@ -184211,6 +185201,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CAE
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor N Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor N Circuit Range/Performance
@@ -184263,6 +185255,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CAF
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor N Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor N Circuit Low
@@ -184315,6 +185309,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CB0
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor N Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor N Circuit High
@@ -184367,6 +185363,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CB1
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor N Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor N Circuit Intermittent/Erratic
@@ -184418,6 +185416,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CB2
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor O Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor O Circuit
@@ -184470,6 +185470,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CB3
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor O Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor O Circuit Range/Performance
@@ -184523,6 +185525,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CB4
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor O Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor O Circuit Low
@@ -184579,6 +185583,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CB5
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor O Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor O Circuit High
@@ -184632,6 +185638,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CB6
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor O Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor O Circuit Intermittent/Erratic
@@ -184683,6 +185691,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CB7
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor P Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor P Circuit
@@ -184735,6 +185745,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CB8
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor P Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor P Circuit Range/Performance
@@ -184788,6 +185800,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CB9
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor P Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor P Circuit Low
@@ -184841,6 +185855,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CBA
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor P Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor P Circuit High
@@ -184894,6 +185910,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CBB
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor P Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor P Circuit Intermittent/Erratic
@@ -184945,6 +185963,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CBC
+  short_description:
+    en: "Drive Motor A Coolant Temp Sensor Circuit"
   category: powertrain
   title:
     en: Drive Motor A Coolant Temperature Sensor Circuit
@@ -185004,6 +186024,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CBD
+  short_description:
+    en: "Drive Motor A Coolant Temp Sensor Circuit Range/Performance"
   category: powertrain
   title:
     en: Drive Motor A Coolant Temperature Sensor Circuit Range/Performance
@@ -185055,6 +186077,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CBE
+  short_description:
+    en: "Drive Motor A Coolant Temp Sensor Circuit Low"
   category: powertrain
   title:
     en: Drive Motor A Coolant Temperature Sensor Circuit Low
@@ -185108,6 +186132,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CBF
+  short_description:
+    en: "Drive Motor A Coolant Temp Sensor Circuit High"
   category: powertrain
   title:
     en: Drive Motor A Coolant Temperature Sensor Circuit High
@@ -185159,6 +186185,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CC0
+  short_description:
+    en: "Drive Motor A Coolant Temp Sensor Circuit Intermittent"
   category: powertrain
   title:
     en: Drive Motor A Coolant Temperature Sensor Circuit Intermittent
@@ -186277,6 +187305,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CD5
+  short_description:
+    en: "Hybrid/EV Battery Pack Coolant Temp Sensor B Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Coolant Temperature Sensor B Circuit
@@ -186331,6 +187361,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CD6
+  short_description:
+    en: "Hybrid/EV Battery Pack Coolant Temp Sensor B Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Coolant Temperature Sensor B Circuit Range/Performance
@@ -186389,6 +187421,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CD7
+  short_description:
+    en: "Hybrid/EV Battery Pack Coolant Temp Sensor B Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Coolant Temperature Sensor B Circuit Low
@@ -186443,6 +187477,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CD8
+  short_description:
+    en: "Hybrid/EV Battery Pack Coolant Temp Sensor B Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Coolant Temperature Sensor B Circuit High
@@ -186502,6 +187538,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CD9
+  short_description:
+    en: "Hybrid/EV Battery Pack Coolant Temp Sensor B Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Battery Pack Coolant Temperature Sensor B Circuit Intermittent/Erratic
@@ -187663,6 +188701,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CEE
+  short_description:
+    en: "Hybrid/EV Electronics Coolant Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Hybrid/EV Electronics Coolant Temperature Sensor A Circuit
@@ -187716,6 +188756,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CEF
+  short_description:
+    en: "Hybrid/EV Electronics Coolant Temp Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Hybrid/EV Electronics Coolant Temperature Sensor A Circuit Range/Performance
@@ -187777,6 +188819,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CF0
+  short_description:
+    en: "Hybrid/EV Electronics Coolant Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Hybrid/EV Electronics Coolant Temperature Sensor A Circuit Low
@@ -187833,6 +188877,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CF1
+  short_description:
+    en: "Hybrid/EV Electronics Coolant Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Hybrid/EV Electronics Coolant Temperature Sensor A Circuit High
@@ -187894,6 +188940,8 @@
   reviewed: '2026-11-02'
 
 - code: P0CF2
+  short_description:
+    en: "Hybrid/EV Electronics Coolant Temp Sensor A Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Hybrid/EV Electronics Coolant Temperature Sensor A Circuit Intermittent/Erratic
@@ -190600,6 +191648,8 @@
   reviewed: '2026-11-02'
 
 - code: P0D24
+  short_description:
+    en: "Battery Charger A Temp Too High"
   category: powertrain
   title:
     en: Battery Charger A Temperature Too High
@@ -191359,6 +192409,8 @@
   reviewed: '2026-11-02'
 
 - code: P0D32
+  short_description:
+    en: "DC/DC Converter A Over Temp"
   category: powertrain
   title:
     en: DC/DC Converter A Over Temperature
@@ -194727,6 +195779,8 @@
   reviewed: '2026-11-02'
 
 - code: P0D70
+  short_description:
+    en: "A/C Compressor Control Module Internal Temp Sensor A Circuit"
   category: powertrain
   title:
     en: A/C Compressor Control Module Internal Temperature Sensor A Circuit
@@ -194780,6 +195834,8 @@
   reviewed: '2026-11-02'
 
 - code: P0D71
+  short_description:
+    en: "A/C Compressor Control Module Internal Temp Sensor A Performance"
   category: powertrain
   title:
     en: A/C Compressor Control Module Internal Temperature Sensor A Performance
@@ -194984,6 +196040,8 @@
   reviewed: '2026-11-02'
 
 - code: P0D75
+  short_description:
+    en: "A/C Compressor Control Module Output Driver Temp Sensor Circuit"
   category: powertrain
   title:
     en: A/C Compressor Control Module Output Driver Temperature Sensor Circuit
@@ -195035,6 +196093,8 @@
   reviewed: '2026-11-02'
 
 - code: P0D76
+  short_description:
+    en: "A/C Compressor Control Module Output Driver Temp Sensor Performance"
   category: powertrain
   title:
     en: A/C Compressor Control Module Output Driver Temperature Sensor Performance
@@ -196875,6 +197935,8 @@
   reviewed: '2026-11-02'
 
 - code: P0D99
+  short_description:
+    en: "Battery Charger Coupler Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Battery Charger Coupler Temperature Sensor A Circuit
@@ -196934,6 +197996,8 @@
   reviewed: '2026-11-02'
 
 - code: P0D9A
+  short_description:
+    en: "Battery Charger Coupler Temp Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Battery Charger Coupler Temperature Sensor A Circuit Range/Performance
@@ -196993,6 +198057,8 @@
   reviewed: '2026-11-02'
 
 - code: P0D9B
+  short_description:
+    en: "Battery Charger Coupler Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Battery Charger Coupler Temperature Sensor A Circuit Low
@@ -197052,6 +198118,8 @@
   reviewed: '2026-11-02'
 
 - code: P0D9C
+  short_description:
+    en: "Battery Charger Coupler Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Battery Charger Coupler Temperature Sensor A Circuit High
@@ -197111,6 +198179,8 @@
   reviewed: '2026-11-02'
 
 - code: P0D9D
+  short_description:
+    en: "Battery Charger Coupler Temp Sensor A Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Battery Charger Coupler Temperature Sensor A Circuit Intermittent/Erratic
@@ -200906,6 +201976,8 @@
   reviewed: '2026-11-03'
 
 - code: P0DE4
+  short_description:
+    en: "Electric/Auxiliary Transmission Fluid Pump A Motor Over Temp"
   category: powertrain
   title:
     en: Electric/Auxiliary Transmission Fluid Pump A Motor Over Temperature
@@ -201576,6 +202648,8 @@
   reviewed: '2026-11-03'
 
 - code: P0DF0
+  short_description:
+    en: "Generator Inverter Temp Sensor B Circuit"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor B Circuit
@@ -201630,6 +202704,8 @@
   reviewed: '2026-11-03'
 
 - code: P0DF1
+  short_description:
+    en: "Generator Inverter Temp Sensor B Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor B Circuit Intermittent/Erratic
@@ -201684,6 +202760,8 @@
   reviewed: '2026-11-03'
 
 - code: P0DF2
+  short_description:
+    en: "Generator Inverter Temp Sensor C Circuit"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor C Circuit
@@ -201737,6 +202815,8 @@
   reviewed: '2026-11-03'
 
 - code: P0DF3
+  short_description:
+    en: "Generator Inverter Temp Sensor C Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor C Circuit Intermittent/Erratic
@@ -201790,6 +202870,8 @@
   reviewed: '2026-11-03'
 
 - code: P0DF4
+  short_description:
+    en: "Generator Inverter Temp Sensor B Circuit Range/Performance"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor B Circuit Range/Performance
@@ -201846,6 +202928,8 @@
   reviewed: '2026-11-03'
 
 - code: P0DF5
+  short_description:
+    en: "Generator Inverter Temp Sensor B Circuit Low"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor B Circuit Low
@@ -201900,6 +202984,8 @@
   reviewed: '2026-11-03'
 
 - code: P0DF6
+  short_description:
+    en: "Generator Inverter Temp Sensor B Circuit High"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor B Circuit High
@@ -201954,6 +203040,8 @@
   reviewed: '2026-11-03'
 
 - code: P0DF7
+  short_description:
+    en: "Generator Inverter Temp Sensor C Circuit Range/Performance"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor C Circuit Range/Performance
@@ -202008,6 +203096,8 @@
   reviewed: '2026-11-03'
 
 - code: P0DF8
+  short_description:
+    en: "Generator Inverter Temp Sensor C Circuit Low"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor C Circuit Low
@@ -202061,6 +203151,8 @@
   reviewed: '2026-11-03'
 
 - code: P0DF9
+  short_description:
+    en: "Generator Inverter Temp Sensor C Circuit High"
   category: powertrain
   title:
     en: Generator Inverter Temperature Sensor C Circuit High
@@ -204354,6 +205446,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E23
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor G Circuit"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor G Circuit
@@ -204405,6 +205499,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E24
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor G Circuit Range/Performance"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor G Circuit Range/Performance
@@ -204457,6 +205553,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E25
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor G Circuit Low"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor G Circuit Low
@@ -204509,6 +205607,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E26
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor G Circuit High"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor G Circuit High
@@ -204561,6 +205661,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E27
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor G Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor G Circuit Intermittent/Erratic
@@ -204612,6 +205714,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E28
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor H Circuit"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor H Circuit
@@ -204663,6 +205767,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E29
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor H Circuit Range/Performance"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor H Circuit Range/Performance
@@ -204715,6 +205821,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E2A
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor H Circuit Low"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor H Circuit Low
@@ -204767,6 +205875,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E2B
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor H Circuit High"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor H Circuit High
@@ -204819,6 +205929,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E2C
+  short_description:
+    en: "Drive Motor Inverter Temp Sensor H Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Drive Motor Inverter Temperature Sensor H Circuit Intermittent/Erratic
@@ -207125,6 +208237,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E58
+  short_description:
+    en: "DC/DC Converter Temp Sensor C Circuit"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor C Circuit
@@ -207176,6 +208290,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E59
+  short_description:
+    en: "DC/DC Converter Temp Sensor C Circuit Range/Performance"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor C Circuit Range/Performance
@@ -207235,6 +208351,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E5A
+  short_description:
+    en: "DC/DC Converter Temp Sensor C Circuit Low"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor C Circuit Low
@@ -207286,6 +208404,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E5B
+  short_description:
+    en: "DC/DC Converter Temp Sensor C Circuit High"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor C Circuit High
@@ -207337,6 +208457,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E5C
+  short_description:
+    en: "DC/DC Converter Temp Sensor C Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: DC/DC Converter Temperature Sensor C Circuit Intermittent/Erratic
@@ -207499,6 +208621,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E5F
+  short_description:
+    en: "Battery Charger Coupler Temp A Too High"
   category: powertrain
   title:
     en: Battery Charger Coupler Temperature A Too High
@@ -209284,6 +210408,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E81
+  short_description:
+    en: "Auxiliary Cooling System Coolant Temp Sensor A Circuit"
   category: powertrain
   title:
     en: Auxiliary Cooling System Coolant Temperature Sensor A Circuit
@@ -209335,6 +210461,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E82
+  short_description:
+    en: "Auxiliary Cooling System Coolant Temp Sensor A Circuit Range/Performance"
   category: powertrain
   title:
     en: Auxiliary Cooling System Coolant Temperature Sensor A Circuit Range/Performance
@@ -209390,6 +210518,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E83
+  short_description:
+    en: "Auxiliary Cooling System Coolant Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: Auxiliary Cooling System Coolant Temperature Sensor A Circuit Low
@@ -209442,6 +210572,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E84
+  short_description:
+    en: "Auxiliary Cooling System Coolant Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: Auxiliary Cooling System Coolant Temperature Sensor A Circuit High
@@ -209494,6 +210626,8 @@
   reviewed: '2026-11-03'
 
 - code: P0E85
+  short_description:
+    en: "Battery Charger B Temp Too High"
   category: powertrain
   title:
     en: Battery Charger B Temperature Too High
@@ -211233,6 +212367,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EA6
+  short_description:
+    en: "DC/DC Converter B Over Temp"
   category: powertrain
   title:
     en: DC/DC Converter B Over Temperature
@@ -212369,6 +213505,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EBC
+  short_description:
+    en: "A/C Refrigerant Temp Sensor A Circuit"
   category: powertrain
   title:
     en: A/C Refrigerant Temperature Sensor A Circuit
@@ -212421,6 +213559,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EBD
+  short_description:
+    en: "A/C Refrigerant Temp Sensor A Circuit High"
   category: powertrain
   title:
     en: A/C Refrigerant Temperature Sensor A Circuit High
@@ -212473,6 +213613,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EBE
+  short_description:
+    en: "A/C Refrigerant Temp Sensor A Circuit Low"
   category: powertrain
   title:
     en: A/C Refrigerant Temperature Sensor A Circuit Low
@@ -212524,6 +213666,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EBF
+  short_description:
+    en: "A/C Refrigerant Temp Sensor A Range/Performance"
   category: powertrain
   title:
     en: A/C Refrigerant Temperature Sensor A Range/Performance
@@ -212630,6 +213774,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EC1
+  short_description:
+    en: "A/C Refrigerant Temp Sensor B Circuit"
   category: powertrain
   title:
     en: A/C Refrigerant Temperature Sensor B Circuit
@@ -212681,6 +213827,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EC2
+  short_description:
+    en: "A/C Refrigerant Temp Sensor B Circuit High"
   category: powertrain
   title:
     en: A/C Refrigerant Temperature Sensor B Circuit High
@@ -212732,6 +213880,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EC3
+  short_description:
+    en: "A/C Refrigerant Temp Sensor B Circuit Low"
   category: powertrain
   title:
     en: A/C Refrigerant Temperature Sensor B Circuit Low
@@ -212783,6 +213933,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EC4
+  short_description:
+    en: "A/C Refrigerant Temp Sensor B Range/Performance"
   category: powertrain
   title:
     en: A/C Refrigerant Temperature Sensor B Range/Performance
@@ -213090,6 +214242,8 @@
   reviewed: '2026-11-03'
 
 - code: P0ECA
+  short_description:
+    en: "Hybrid/EV Battery Temp Sensor System - Multiple Sensor Correlation"
   category: powertrain
   title:
     en: Hybrid/EV Battery Temperature Sensor System - Multiple Sensor Correlation
@@ -214624,6 +215778,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EE7
+  short_description:
+    en: "Battery Charger Coupler Temp Sensor B Circuit"
   category: powertrain
   title:
     en: Battery Charger Coupler Temperature Sensor B Circuit
@@ -214677,6 +215833,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EE8
+  short_description:
+    en: "Battery Charger Coupler Temp Sensor B Circuit Range/Performance"
   category: powertrain
   title:
     en: Battery Charger Coupler Temperature Sensor B Circuit Range/Performance
@@ -214729,6 +215887,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EE9
+  short_description:
+    en: "Battery Charger Coupler Temp Sensor B Circuit Low"
   category: powertrain
   title:
     en: Battery Charger Coupler Temperature Sensor B Circuit Low
@@ -214782,6 +215942,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EEA
+  short_description:
+    en: "Battery Charger Coupler Temp Sensor B Circuit High"
   category: powertrain
   title:
     en: Battery Charger Coupler Temperature Sensor B Circuit High
@@ -214835,6 +215997,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EEB
+  short_description:
+    en: "Battery Charger Coupler Temp Sensor B Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Battery Charger Coupler Temperature Sensor B Circuit Intermittent/Erratic
@@ -214999,6 +216163,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EEE
+  short_description:
+    en: "Battery Charger Coupler Temp B Too High"
   category: powertrain
   title:
     en: Battery Charger Coupler Temperature B Too High
@@ -215174,6 +216340,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EF1
+  short_description:
+    en: "Drive Motor C Temp Sensor Circuit"
   category: powertrain
   title:
     en: Drive Motor C Temperature Sensor Circuit
@@ -215233,6 +216401,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EF2
+  short_description:
+    en: "Drive Motor C Temp Sensor Range/Performance"
   category: powertrain
   title:
     en: Drive Motor C Temperature Sensor Range/Performance
@@ -215292,6 +216462,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EF3
+  short_description:
+    en: "Drive Motor C Temp Sensor Circuit Low"
   category: powertrain
   title:
     en: Drive Motor C Temperature Sensor Circuit Low
@@ -215346,6 +216518,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EF4
+  short_description:
+    en: "Drive Motor C Temp Sensor Circuit High"
   category: powertrain
   title:
     en: Drive Motor C Temperature Sensor Circuit High
@@ -215405,6 +216579,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EF5
+  short_description:
+    en: "Drive Motor C Temp Sensor Circuit Intermittent/Erratic"
   category: powertrain
   title:
     en: Drive Motor C Temperature Sensor Circuit Intermittent/Erratic
@@ -215458,6 +216634,8 @@
   reviewed: '2026-11-03'
 
 - code: P0EF6
+  short_description:
+    en: "Drive Motor C Temp Sensor Over Temp"
   category: powertrain
   title:
     en: Drive Motor C Temperature Sensor Over Temperature

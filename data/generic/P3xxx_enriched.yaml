@@ -5956,6 +5956,8 @@
     - https://en.wikipedia.org/wiki/Cylinder_deactivation
 
 - code: P34A4
+  short_description:
+    en: "A Camshaft Position Actuator Temp Sensor Circuit Bank 1"
   category: powertrain
   title:
     en: A Camshaft Position Actuator Temperature Sensor Circuit Bank 1
@@ -5999,6 +6001,8 @@
     - https://en.wikipedia.org/wiki/Variable_valve_timing
 
 - code: P34A5
+  short_description:
+    en: "A Camshaft Position Actuator Temp Sensor Range/Performance Bank 1"
   category: powertrain
   title:
     en: A Camshaft Position Actuator Temperature Sensor Range/Performance Bank 1
@@ -6157,6 +6161,8 @@
     - https://en.wikipedia.org/wiki/Variable_valve_timing
 
 - code: P34A8
+  short_description:
+    en: "A Camshaft Position Actuator Temp Sensor Circuit Bank 2"
   category: powertrain
   title:
     en: A Camshaft Position Actuator Temperature Sensor Circuit Bank 2
@@ -6200,6 +6206,8 @@
     - https://en.wikipedia.org/wiki/Variable_valve_timing
 
 - code: P34A9
+  short_description:
+    en: "A Camshaft Position Actuator Temp Sensor Range/Performance Bank 2"
   category: powertrain
   title:
     en: A Camshaft Position Actuator Temperature Sensor Range/Performance Bank 2
@@ -6760,6 +6768,8 @@
     - https://en.wikipedia.org/wiki/Variable_valve_timing
 
 - code: P34B4
+  short_description:
+    en: "B Camshaft Position Actuator Temp Sensor Circuit Bank 1"
   category: powertrain
   title:
     en: B Camshaft Position Actuator Temperature Sensor Circuit Bank 1
@@ -6803,6 +6813,8 @@
     - https://en.wikipedia.org/wiki/Variable_valve_timing
 
 - code: P34B5
+  short_description:
+    en: "B Camshaft Position Actuator Temp Sensor Range/Performance Bank 1"
   category: powertrain
   title:
     en: B Camshaft Position Actuator Temperature Sensor Range/Performance Bank 1
@@ -6961,6 +6973,8 @@
     - https://en.wikipedia.org/wiki/Variable_valve_timing
 
 - code: P34B8
+  short_description:
+    en: "B Camshaft Position Actuator Temp Sensor Circuit Bank 2"
   category: powertrain
   title:
     en: B Camshaft Position Actuator Temperature Sensor Circuit Bank 2
@@ -7004,6 +7018,8 @@
     - https://en.wikipedia.org/wiki/Variable_valve_timing
 
 - code: P34B9
+  short_description:
+    en: "B Camshaft Position Actuator Temp Sensor Range/Performance Bank 2"
   category: powertrain
   title:
     en: B Camshaft Position Actuator Temperature Sensor Range/Performance Bank 2

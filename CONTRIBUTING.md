@@ -61,3 +61,26 @@ If unsure, omit `common_causes` rather than guess.
 ## Review
 
 Reviewers check: schema validity, source quality, no verbatim copyrighted text, plausibility. Maintainers may rephrase or drop sources without further discussion.
+
+## Short descriptions
+
+`short_description.en` is optional. Summarize the reported condition in fewer
+than 10 whitespace-separated words (maximum nine). Base it on the title and
+explanation; preserve bank, sensor, circuit and failure-mode distinctions.
+Do not infer a failed part, recommend a repair, or claim a fault is active.
+Expand unfamiliar terminology when space permits. Leave the field absent
+until its wording has been reviewed; consumers can fall back to `title.en`.
+An upstream `reviewed` date describes the original entry, not independent
+review of downstream short descriptions.
+
+Use the existing title by default: it is already a concise definition. Add an
+override only when it makes the meaning clearer, such as explaining reductant
+as diesel exhaust fluid (DEF) for P203F. Preserve identifiers such as A/B and
+bank numbers. Do not rewrite a clear title just to populate this field.
+J1939 SPN/FMI codes remain outside this dataset.
+
+For fleet-facing labels, retain common terminology (DEF, DPF, EGR, NOx).
+Spell out Particulate Matter; PM is ambiguous with preventative maintenance.
+Prefer short fault labels such as Low Fuel Pressure to explanatory sentences.
+Use `tools/generate-short-descriptions.mjs` for consistent proposals; preserve
+approved wording and record generated labels separately from approved ones.
